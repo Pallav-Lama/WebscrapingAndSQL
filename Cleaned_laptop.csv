@@ -1,0 +1,2001 @@
+name,brandName,ratingScore,price,processor,ram,memory,displaySize,gen
+apple macbook air,Apple,5.0,136999.0,m1,8gb,256gb,"13.3""",
+dell inspiron 15,Dell,4.7,85990.0,i5,8gb,512 ssd,"15.6""",
+apple macbook air,Apple,4.8,139999.0,m1,6gb,256gb,"13""",
+dell vostro 3400,Dell,4.6,52000.0,i3,8gb,256gb,"14""",11th
+hp victus 15,HP,4.6,99990.0,i5,4gb,512gb,"15.6""",12th
+acer aspire 5,Acer,4.7,51000.0,intel,4gb,128gb,"15.6""",11th
+mi notebook pro,MI,5.0,109999.0,intel,6gb,512gb,"14 """,11th
+dell vostro 3400,Dell,4.7,75990.0,i5,8gb,512ssd,"14""",11th
+apple macbook air,Apple,5.0,184899.0,m2,6gb,256gb,"13.6""",
+mi notebook ultra,MI,5.0,136999.0,intel,6gb,512gb,"156""",11th
+dell vostro 3400,Dell,0.0,51990.0,i3,4gb,256ssd,"14""",11th
+acer swift 3,Acer,5.0,89999.0,intel,8gb,512gb,13.5',11th
+dell vostro 3400,Dell,5.0,51999.0,i3,4gb,256gb,"14""",11th
+acer aspire 3,Acer,0.0,84990.0,i5,8gb,256gb,15.6,12th
+dell inspiron 3511,Dell,4.3,82990.0,i5,8gb,512gb,"15.6""",11th
+hp 14dq2031wm intel,HP,4.0,51999.0,intel,8gb,256gb,,
+hp laptop 15s,HP,0.0,59895.0,ryzen,8gb,512gb,15.6,
+acer nitro 5,Acer,5.0,156500.0,ryzen,6gb,512gb,"15.6""",
+acer extensa 15,Acer,4.5,73999.0,i5,8gb,512gb,"15.6""",11th
+lenovo ideapad 3,Lenovo,0.0,66990.0,ryzen,8gb,256gb,"14""",
+"hp 14""\core i3",HP,4.8,52249.0,i3,8gb,256gb,"14""",11th
+acer extensa 15,Acer,0.0,74999.0,i5,6gb,512gb,"15.6""",11th
+asus 15 laptop,ASUS,0.0,33250.0,intel,4 gb,256 gb,15.6,
+dell inspiron 15,Dell,0.0,92900.0,i5,4gb,1tb,,
+lenovo ip3 ryzen,Lenovo,0.0,82990.0,ryzen,8gb,256gb,"14""",
+hp laptop 15s,HP,0.0,80000.0,ryzen,8gb,512 ssd,15.6,
+hp victus 15,HP,5.0,99499.0,intel,8gb,512gb,"15.6""",12th
+acer aspire 5,Acer,4.7,71250.0,i5,8 gb,256 gb,"14 """,11 gen
+asus vivobook 14,ASUS,4.0,33900.0,intel,4gb,128gb,"14""",11th
+acer nitro 5,Acer,0.0,118000.0,amd,6gb,512gb,15.6,
+asus laptop 14x409ea,ASUS,0.0,50000.0,intel,4gb,128gb,"14""",10 gen
+avita magus cosmos,Avita,4.7,34999.0,other,4gb,,"11.6""",
+acer aspire 3,No Brand,0.0,84000.0,intel,4gb,1tb,15.6,11th
+lenovo ideapad 1/ryzen,Lenovo IdeaPad,0.0,65500.0,ryzen,,,,
+msi creator m16,MSI,0.0,218500.0,m1,,,,
+lenovo ideapad 3,Lenovo,0.0,61500.0,intel,8gb,512gb,"14""",
+acer aspire 5,Acer,0.0,71900.0,amd,8gb,512gb,"15.6""",
+ideapad slim 3,Lenovo,0.0,73000.0,intel,8gb,256gb,"15.6""",12th
+acer aspire 5,No Brand,0.0,126400.0,intel,8gb,128gb,"14""",
+dell laptop vostro,No Brand,0.0,73000.0,i5,8gb,256gb,"15.6""",11th
+apple macbook air,Apple,5.0,136999.0,m1,8gb,256gb,"13.3""",
+dell inspiron 15,Dell,4.7,85990.0,i5,8gb,512 ssd,"15.6""",
+apple macbook air,Apple,4.8,139999.0,m1,6gb,256gb,"13""",
+dell vostro 3400,Dell,4.6,52000.0,i3,8gb,256gb,"14""",11th
+hp victus 15,HP,4.6,99990.0,i5,4gb,512gb,"15.6""",12th
+acer aspire 5,Acer,4.7,51000.0,intel,4gb,128gb,"15.6""",11th
+mi notebook pro,MI,5.0,109999.0,intel,6gb,512gb,"14 """,11th
+dell vostro 3400,Dell,4.7,75990.0,i5,8gb,512ssd,"14""",11th
+apple macbook air,Apple,5.0,184899.0,m2,6gb,256gb,"13.6""",
+mi notebook ultra,MI,5.0,136999.0,intel,6gb,512gb,"156""",11th
+dell vostro 3400,Dell,0.0,51990.0,i3,4gb,256ssd,"14""",11th
+acer swift 3,Acer,5.0,89999.0,intel,8gb,512gb,13.5',11th
+dell vostro 3400,Dell,5.0,51999.0,i3,4gb,256gb,"14""",11th
+acer aspire 3,Acer,0.0,84990.0,i5,8gb,256gb,15.6,12th
+dell inspiron 3511,Dell,4.3,82990.0,i5,8gb,512gb,"15.6""",11th
+hp 14dq2031wm intel,HP,4.0,51999.0,intel,8gb,256gb,,
+hp laptop 15s,HP,0.0,59895.0,ryzen,8gb,512gb,15.6,
+acer nitro 5,Acer,5.0,156500.0,ryzen,6gb,512gb,"15.6""",
+acer extensa 15,Acer,4.5,73999.0,i5,8gb,512gb,"15.6""",11th
+lenovo ideapad 3,Lenovo,0.0,66990.0,ryzen,8gb,256gb,"14""",
+"hp 14""\core i3",HP,4.8,52249.0,i3,8gb,256gb,"14""",11th
+acer extensa 15,Acer,0.0,74999.0,i5,6gb,512gb,"15.6""",11th
+asus 15 laptop,ASUS,0.0,33250.0,intel,4 gb,256 gb,15.6,
+dell inspiron 15,Dell,0.0,92900.0,i5,4gb,1tb,,
+lenovo ip3 ryzen,Lenovo,0.0,82990.0,ryzen,8gb,256gb,"14""",
+hp laptop 15s,HP,0.0,80000.0,ryzen,8gb,512 ssd,15.6,
+hp victus 15,HP,5.0,99499.0,intel,8gb,512gb,"15.6""",12th
+acer aspire 5,Acer,4.7,71250.0,i5,8 gb,256 gb,"14 """,11 gen
+asus vivobook 14,ASUS,4.0,33900.0,intel,4gb,128gb,"14""",11th
+acer nitro 5,Acer,0.0,118000.0,amd,6gb,512gb,15.6,
+asus laptop 14x409ea,ASUS,0.0,50000.0,intel,4gb,128gb,"14""",10 gen
+avita magus cosmos,Avita,4.7,34999.0,other,4gb,,"11.6""",
+acer aspire 3,No Brand,0.0,84000.0,intel,4gb,1tb,15.6,11th
+lenovo ideapad 1/ryzen,Lenovo IdeaPad,0.0,65500.0,ryzen,,,,
+msi creator m16,MSI,0.0,218500.0,m1,,,,
+lenovo ideapad 3,Lenovo,0.0,61500.0,intel,8gb,512gb,"14""",
+acer aspire 5,Acer,0.0,71900.0,amd,8gb,512gb,"15.6""",
+ideapad slim 3,Lenovo,0.0,73000.0,intel,8gb,256gb,"15.6""",12th
+acer aspire 5,No Brand,0.0,126400.0,intel,8gb,128gb,"14""",
+dell laptop vostro,No Brand,0.0,73000.0,i5,8gb,256gb,"15.6""",11th
+dell inspiron 135310/,Dell,0.0,90000.0,i5,6gb,512gb,,11gen
+lenovo ideapad 1,Lenovo,0.0,61000.0,amd,8gb,256gb,"14.0""",
+dell latitude e5270,Della,0.0,36999.0,i5,8 gb,256 gb,"13 """,56th
+acer aspire 5,Acer,0.0,78000.0,intel,8 gb,256 gb,"14 """,12 gen
+xlab xbook series,XLAB,0.0,64900.0,other,,,,
+mi notebook pro,MI,0.0,104990.0,intel,6gb,512 gb,"14""",11th
+msi modern 15,MSI,0.0,137000.0,i5,8gb,512gb,"15.6""",11th
+msi modern 15,MSI,0.0,148000.0,i7,8gb,512gb,"15.6""",11th
+acer nitro 5,No Brand,0.0,153867.0,i5,8gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,256gb,"15.6""",12th
+msi summit b15,MSI,0.0,138000.0,i5,8gb,512gb,"15.6""",11th
+msi gp66 leopard,MSI,0.0,259000.0,i7,6gb,1tb,"15.6""",10th
+msi ge65 raider,MSI,0.0,230000.0,i7,6gb,1tb,"15.6""",9th
+hp notebook 14dk1025wm,HP,0.0,61000.0,ryzen,8gb,256gb,"14""",
+"dell inspiron 153511/i511,35g7/8gb",Dell,0.0,90000.0,i5,8gb,256gb,,
+dell inspiron 15,Dell,0.0,140000.0,intel,6gb,256gb,"15.6""",
+dell new inspiron,Dell,0.0,140000.0,amd,8gb,512gb,,
+lenovo ideapad slim,Lenovo,0.0,95000.0,intel,8gb,512gb,"14""",11th
+"asus vivobook e410ma,",ASUS,0.0,49000.0,other,4gb,256gb,"14 """,
+mi notebook pro,Xiaomi,4.5,109999.0,intel,6gb,512gb,"14 """,11th
+acer aspire a51454i5,Acer,0.0,78500.0,i5,8gb,256gb,,11th
+dell vostro 3400/i3/11gen/4gb,Dell,0.0,70000.0,i3,4gb,,14',11gen
+gateway gwnc31514 intel,Gateway,0.0,42999.0,intel,4gb,128gb,"15.6""",11th
+acer aspire 5,Acer,0.0,72000.0,i5,8gb,256gb,"14 """,11th
+acer aspire 5,Acer,0.0,74000.0,i5,8gb,256gb,"14 """,11th
+gateway gwtn141 ultra,Gateway,0.0,68990.0,i5,6gb,512gb,14.1,11th
+lenovo 1 14igl7,Lenovo,0.0,34999.0,other,4gb,128gb,"14""",
+acer extensa 15,Acer,0.0,74499.0,intel,8gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,intel,8gb,512gb,"15.6""",11th
+asus g513qehn136t ryzen,ASUS,0.0,198000.0,ryzen,6 gb,512 gb,15.6,
+asus vivobook x515ea,ASUS,5.0,67000.0,i3,4gb,256 gb,15.6,11th
+chuwi minibook x,CHUWI,0.0,79040.0,intel,2gb,512gb,"10.8""",11th
+asus vivobook e410m,ASUS,5.0,32900.0,other,4gb,128gb,"14""",
+dell g5 15,Dell,5.0,145900.0,i5,8gb,256 ssd,"15.6""",
+dell 2022 inspiron,Dell,0.0,112000.0,i5,2gb,1tb,14',
+dell latitude 5320,Dell,0.0,95000.0,i5,8gb,256gb,"13.3""",11th
+dell inspiron 15,Dell,0.0,82900.0,i5,8gb,128gb,,
+"macbookpro 14.2‑"" 8core",Apple,5.0,305000.0,other,6gb,512gb,14.2,
+hp pavilion laptop,HP,5.0,101500.0,other,8 gb,512 gb,"15.6""",
+acer aspire 5,Acer,0.0,76990.0,i5,8gb,256gb,14',12th
+hp laptop 15,HP,0.0,87000.0,other,8gb,512gb,"15.6""",
+chuwi gemibook x,CHUWI,0.0,59850.0,intel,6gb,256gb,"15.6""",11th
+chuwi freebook 360°,CHUWI,0.0,80135.0,intel,2gb,512gb,13.5',11th
+dell inspiron 14,Dell,4.0,109900.0,amd,8gb,512ssd,,
+apple macbook pro,Apple,0.0,189900.0,m2,8gb,256gb,,
+apple macbook pro,Apple,0.0,368000.0,other,6gb,,"16.2""",
+dell inspiron 15,Dell,0.0,95500.0,i5,8gb,512ssd,,
+asus vivobook 15,ASUS,0.0,105000.0,i5,8gb,512gb,"15.6""",11th
+huawei matebook d15,Huawei,0.0,109990.0,intel,8gb,512gb,,11th
+"chuwi gemibook 13""",CHUWI,5.0,50920.0,other,8gb,256gb,"13""",
+dell inspiron 15,Dell,5.0,122900.0,amd,8gb,512gb,"15.6""",
+apple macbook pro,Apple,0.0,243000.0,m2,8gb,512gb,,
+dell vostro 15,Dell,0.0,73000.0,amd,8gb,512gb,"15.6""",
+apple macbook pro,Apple,0.0,375000.0,m1,6gb,512gb,"16""",
+dell inspiron 3511,Dell,0.0,67000.0,intel,8gb,256gb,"15.6""",11th
+lenovo legion 5,Lenovo,4.7,128000.0,ryzen,8gb,256gb,,
+acer swift3 laptop,No Brand,0.0,160000.0,i7,8gb,512gb,"13.5""",11th
+dell inspiron 15,Dell,0.0,63900.0,amd,4gb,1tb,,
+chuwi gemibook pro,CHUWI,5.0,54815.0,other,8gb,256gb,"14""",
+dell inspiron 15,Dell,0.0,95500.0,i5,8gb,512ssd,,
+asus zenbook 17,ASUS,0.0,555000.0,i7,6 gb,1tb,"17.3""",
+dell inspiron g15,Dell,0.0,145900.0,i5,8gb,256ssd,,
+hp pavilion 15,HP,0.0,108000.0,ryzen,8gb,512gb,15.6,
+dell inspiron 15,Dell,0.0,69500.0,i3,8gb,256ssd,,
+lenovo thinkpad p14s,Lenovo,0.0,169000.0,intel,,,,12th
+dell inspiron g15,Dell,0.0,172900.0,amd,8gb,512ssd,,
+"hp 14""\core i3",HP,3.4,51999.0,i3,8gb,256gb,"14""",11th
+asus vivobook pro,ASUS,5.0,238888.0,other,6 gb,1 tb,"16""",5th
+chuwi corebook x,CHUWI,0.0,70300.0,other,8gb,512gb,"14""",
+lenovo ideapad 3,Lenovo,0.0,78999.0,amd,8gb,256gb,15.6,
+avita satus ultimus,Avita,0.0,34999.0,other,4gb,256gb,"14.1""",
+lenovo ip 3,Lenovo,5.0,40999.0,intel,4gb,1 tb,"15.6""",
+2022 apple macbook,Apple,0.0,199000.0,m2,8gb,256gb,"13.6""",
+acer extensa 15,Acer,4.0,95000.0,i5,6gb,512gb,15.6,
+dell inspiron 5515,Dell,0.0,95000.0,ryzen,8gb,256gb,"15.6""",
+dell lnspirion 15,Dell,0.0,160000.0,other,8gb,512gb,"615.6""",16th
+asus vivobook 14,ASUS,4.0,52250.0,i3,8gb,256gb,"14""",11th
+asus vivobook flip,ASUS,0.0,117778.0,ryzen,8gb,512 gb,,
+acer aspire 5,Acer,0.0,71000.0,intel,8gb,256gb,"15.6""",11th
+dell lnspirion 15,Dell,5.0,124000.0,i5,8gb,256gb,"15.6""",
+"asus vivobook e510ma,",ASUS,0.0,49000.0,other,4gb,256gb,15.6,10th
+asus rog strix,ASUS,0.0,250444.0,ryzen,,,,
+apple macbook pro,Apple,0.0,368000.0,other,6gb,1tb,"14.2""",
+asus vivobook m415da,ASUS,0.0,64000.0,ryzen,4gb,256gb,"14""",11th
+dell inspiron 14,Dell,0.0,123900.0,amd,8gb,512gb,"14""",
+lenovo ideapad 3,Lenovo,0.0,56000.0,i3,8gb,256gb,15.6,311th
+dell inspiron 16,Dell,0.0,180000.0,intel,2gb,1tb,"16""",
+asus vivobook 15,ASUS,0.0,46407.0,intel,4gb,256ssd,,
+lenovo ideapad (slim,Lenovo,0.0,62500.0,other,,,,
+asus zenbook pro,ASUS,0.0,388888.0,i9,2 gb,1 tb,"14 """,12th
+asus vivobook pro,ASUS,0.0,187777.0,other,6 gb,1 tb,"14""",5th
+dell inspiron 3511/,Dell,0.0,95000.0,i5,6gb,256gb,15.6,
+apple macbook pro,Apple,0.0,395000.0,other,6gb,1tb,"16.2""",
+asus tuf gaming,ASUS,0.0,158000.0,amd,4gb,512gb,"15.6""",
+dell xps 13,Dell,0.0,280000.0,intel,2gb,,13.4,
+dell inspiron 14,Dell,0.0,129999.0,intel,6gb,512gb,"14""",11th
+dell inspiron 15,Dell,0.0,94900.0,i5,4gb,1tb,,
+dell inspiron 14,Dell,0.0,109900.0,amd,8gb,512ssd,,
+dell g15 5515,Dell,0.0,180000.0,ryzen,6gb,256gb,"15.6""",
+dell inspiron 15,Dell,0.0,109900.0,i5,8gb,512gb,"15.6""",
+dell alienware m15,Dell,0.0,360000.0,m1,2gb,1tb,"15.6""",
+dell alienware m15,Dell,0.0,359900.0,m1,2gb,1tb,,
+asus zephyrus g15,ASUS,5.0,227000.0,amd,4gb,1tb,15.6,
+hp laptop 15sryzen,HP,0.0,54999.0,ryzen,4gb,256gb,15.6,
+redmibook 15 pro,Redmi,0.0,84990.0,intel,8gb,512gb,"15.6""",11th
+asus zenbook 14,ASUS,0.0,154444.0,i7,6gb,512gb,14',711th
+new inspirion 3511,Dell,0.0,67000.0,i3,8gb,256gb,"15.6""",
+dell laptop latitude,Dell,0.0,82000.0,i5,8gb,1tb,,10th
+dell inspiron 3501,Dell,0.0,93000.0,intel,8gb,512gb,"15.6""",11th
+asus vivobook f415eaas31,ASUS,0.0,59999.0,intel,4gb,128gb,"14""",
+hp 15seq2022nia /,HP,0.0,80000.0,amd,8gb,512gb,15.6,
+dell inspiron 15,Dell,0.0,92000.0,amd,8gb,256gb,15.6,
+asus zenbook duo,ASUS,0.0,220000.0,i7,2 gb,1 tb,12.6,11th
+modern 15 a11m,MSI,0.0,117000.0,other,,,,
+dell vostro i51135g7,Dell,0.0,99900.0,i5,8gb,512gb,"15.6""",
+hp 14dk ryzen,HP,5.0,50800.0,ryzen,8gb,256gb,"14""",
+dell lnspirion 15,Dell,0.0,164000.0,i7,8gb,512gb,"15.6""",
+dell inspiron 15,Dell,0.0,109900.0,i5,8gb,112ssd,,
+chuwi new gemibook,CHUWI,0.0,58473.0,other,8gb,256gb,"14""",
+dell inspiron g15,Dell,0.0,189900.0,amd,6gb,512ssd,,
+dell inspiron 15,Dell,0.0,69500.0,i3,8gb,256ssd,,
+acer aspire 5,Acer,5.0,63999.0,i3,8gb,128gb,"15.6""",11th
+2022 acer nitro,Acer,0.0,132000.0,ryzen,8gb,512gb,"15.6""",
+dell lnspirion 15,Dell,0.0,124000.0,other,8gb,256gb,"615.6""",12th
+dell inspiron 15,Dell,0.0,89900.0,i5,4gb,1tb,"15""",
+apple macbook pro,Apple,0.0,405000.0,m1,6gb,1tb,"16""",
+"apple macbook pro13""",Apple,0.0,205999.0,m2,6gb,256gb,"13""",
+redmibook 15 pro,MI,0.0,89999.0,intel,8gb,512 gb,"15.6""",11th
+asus vivobook 14,ASUS,0.0,124999.0,i7,8gb,512gb,"14""",12th
+"macbookpro 14.2‑"" 10core",Apple,0.0,380000.0,other,6gb,1tb,14.2,
+dell lnspiron 15,Dell,0.0,64000.0,i3,4gb,256gb,"15.6""",
+hp envy x360,HP,0.0,133000.0,i7,8gb,512gb,13.3,11th
+dell vostro 3510,Dell,0.0,70000.0,i3,8gb,256gb,"15.6""",
+laptop hp 14,HP,0.0,58999.0,i3,8gb,256ssd,"14""",11th
+acer nitro 5,Acer,5.0,110890.0,ryzen,6gb,512gb,,
+dell inspiron 7306,Dell,0.0,169900.0,i5,8gb,512gb,"13.3""",
+dell vostro i51135g7,Dell,0.0,95000.0,i5,8gb,512gb,"15.6""",
+lenovo ideapad 3,Lenovo,0.0,60000.0,intel,8gb,256gb,"14""",
+hp laptop 15,HP,0.0,70000.0,other,4gb,256gb,"15.6""",
+dell inspiron 3511,No Brand,0.0,85999.0,i5,8gb,512ssd,"15.6""",11th
+ideapad slim 5,Lenovo,0.0,96500.0,intel,8gb,256gb,"15.6""",11th
+dell lnspiron 15,Dell,0.0,90000.0,amd,8gb,512gb,,
+dell lnspiron 15,Dell,0.0,118000.0,i7,8gb,512gb,"15.6""",
+ideapad slim 5,Lenovo,0.0,132250.0,intel,8gb,512gb,"15.6""",11th
+hp 14dq2088wm budget,HP,0.0,80000.0,i5,8gb,256gb,"14""",
+dell inspiron 3501,Dell,0.0,94000.0,intel,8gb,128gb,15.6,
+dell inspiron 15,Dell,0.0,63900.0,amd,4gb,1tb,"15.6""",
+dell inspiron 15,Dell,0.0,94900.0,i5,4gb,1tb,,
+dell inspiron 15,Dell,0.0,69500.0,i3,4gb,256ssd,,
+asus vivobook 14,ASUS,0.0,46407.0,intel,4gb,256ssd,,
+inspiron 15 3515,Dell,0.0,82900.0,amd,8gb,256ssd,,
+acer aspire 5,Acer,0.0,83000.0,intel,8gb,512gb,,12th
+dell lnspirion15 3515r53450u8gb256gb,Dell,0.0,78000.0,amd,8gb,256gb,"15.6""",
+dell inspiron g15,Dell,0.0,189900.0,amd,6gb,512ssd,,
+dell vostro 3400,Dell,0.0,71990.0,i5,8gb,256gb,"14 """,11th
+acer aspire 5,Acer,0.0,68000.0,ryzen,8gb,512gb,15.6,
+dell inspiron g15,Dell,0.0,193900.0,i7,6gb,512ssd,,
+lenovo ip1 ryzen5,Lenovo,0.0,62990.0,ryzen,8gb,256gb,"14""",
+asus tuf gaming,ASUS,0.0,120000.0,ryzen,2 gb,512 gb,15.6,4th
+dell inspiron 3515,Dell,0.0,95000.0,other,8gb,512gb,"15.6""",
+dell vostro 3510,Dell,0.0,107000.0,i5,8gb,512gb,,
+"macbook pro 16""",Apple,0.0,530000.0,other,2gb,1tb,"16""",
+asus rog zephyrus,ASUS,0.0,375000.0,amd,6gb,1tb,"15.6""",
+gateway gwtn156 ryzen,Gateway,4.0,79999.0,ryzen,8gb,512gb,"15.6""",
+hp envy x360,HP,0.0,160000.0,other,8gb,512gb,,
+dell inspiron 15,No Brand,0.0,67900.0,i3,4gb,256ssd,,
+dell lnspirion15 3515r53450u8gb256gb,Dell,0.0,78000.0,amd,8gb,256gb,"15.6""",
+dell inspiron 15,Dell,0.0,105900.0,amd,8gb,512gb,"15.6""",
+acer swift x,Acer,0.0,144999.0,i7,4gb,1tb,"16.1""",11th
+dell inspiron g15,Dell,0.0,172900.0,amd,8gb,512ssd,,
+asus vivobook 14,ASUS,0.0,102410.0,i5,8gb,512ssd,,11th
+asus rog strix,ASUS,0.0,360000.0,ryzen,,1 tb,15.6,
+dell inspiron 5625,Dell,0.0,122000.0,amd,8gb,512gb,"16""",
+dell inspiron 15,Dell,0.0,122900.0,amd,8gb,512gb,"15.6""",
+thinkpad x1 carbon,Lenovo,0.0,229950.0,other,8gb,256ssd,,
+acer aspire 5,Acer,0.0,71990.0,i5,8gb,256gb,"15.6""",11th
+dell lnspiron 15,Dell,0.0,101000.0,i5,8gb,512gb,"15.6""",
+redmibook 15 core,MI,0.0,74999.0,i3,8 gb,256 gb,"15.6""",11th
+asus rog strix,ASUS,0.0,410000.0,ryzen,,1 tb,15.6,
+"macbook pro 14""",Apple,0.0,380000.0,other,6gb,1tb,"14""",
+lenovo ideapad 1,Lenovo,0.0,56000.0,ryzen,8gb,256gb,"15.6""",
+asus zenbook 14x,ASUS,0.0,214444.0,i7,6gb,1tb,"14""",
+asus tuf gaming,ASUS,0.0,163000.0,i7,6gb,512gb,"15.6""",711th
+dell inspiron 15,Dell,0.0,105900.0,amd,8gb,512ssd,,
+dell inspiron 3501,Dell,0.0,109900.0,i5,8gb,512gb,"15""",
+hp pavilion 15,HP,0.0,94999.0,intel,8gb,256gb,"15.6""",12th
+acer extensa 15,Acer,0.0,78990.0,i5,8gb,256gb,15.6,
+asus vivobook 14,ASUS,0.0,63984.0,i3,4gb,256ssd,,
+asus zenbook q508,ASUS,0.0,117999.0,amd,8gb,256gb,15.6,
+thinkpad x13 gen,Lenovo,0.0,209500.0,intel,,,,13 gen
+laptop hp 14,HP,0.0,67050.0,i3,4gb,256gb,"14""",11th
+dell inspiron 3511,No Brand,0.0,81999.0,i5,8gb,512gb,,11th
+dell inspiron 15,Dell,0.0,105900.0,amd,8gb,512gb,"15.6""",
+toshiba tecra a40c,Toshiba,0.0,65000.0,i5,8gb,256gb,"14""",6th
+asus vivobook 15,ASUS,0.0,110000.0,i5,8gb,512gb,"15.6""",511th
+asus vivobook 14,ASUS,0.0,104663.0,i5,8gb,512ssd,,11th
+asus rog zephyrus,ASUS,0.0,344000.0,ryzen,6gb,512gb,"15.6""",
+lenovo ip1 ryzen5,Lenovo,0.0,62990.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron g15,Dell,0.0,193900.0,i7,6gb,512ssd,,
+dell inspiron 15,Dell,0.0,92900.0,i5,4gb,1tb,"15.6""",
+"macbook pro 16""",Apple,0.0,419000.0,other,6gb,1tb,"16""",
+dell lnspirion 15,Dell,0.0,172000.0,i7,6gb,512gb,"15.6""",
+dell lnspirion 15,Dell,0.0,169000.0,other,6gb,512gb,"15.6""",16th
+hp laptop 15,HP,0.0,94000.0,i5,8gb,1tb,"15.6""",
+dell vostro 3500,Dell,0.0,99900.0,i5,8gb,256gb,"15.6""",
+dell lnspiron 15,Dell,0.0,90000.0,amd,8gb,512gb,,
+"hp laptop 15.6""",HP,0.0,65000.0,intel,6gb,256gb,"15.6""",
+dell inspiron 14,Dell,0.0,123900.0,amd,8gb,512gb,"14""",
+dell inspiron 3511,Dell,0.0,77900.0,i5,8 gb,256 gb,,11 gen
+dell xps 13,Dell,0.0,240000.0,intel,8gb,256gb,13.3,11th
+acer swift 3,Acer,0.0,85800.0,intel,8gb,512gb,,11th
+lenovo ideapad 3,Lenovo IdeaPad,0.0,63500.0,amd,8gb,256 gb,,
+dell lnspirion15 3501,Dell,0.0,85000.0,i5,4gb,1tb,,
+dell inspiron 165625/amd,Dell,0.0,150000.0,amd,6gb,1tb,"16""",
+hp victus 15,HP,4.0,180000.0,i7,6gb,512ssd,,12th
+hp laptop 15,HP,0.0,65000.0,i3,4gb,256gb,"15.6""",
+dell inspiron 13,Dell,0.0,121000.0,i5,8gb,512gb,"13.3""",
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+dell vostro 3510,Dell,0.0,75900.0,i3,8gb,256gb,,
+lenovo ideapad 1,Lenovo,0.0,35000.0,intel,4gb,256gb,"15.6""",
+dell vostro 3510,Dell,0.0,80000.0,intel,8gb,256gb,"15.6""",11th
+dell vostro 3400,Dell,4.0,74999.0,intel,8gb,256gb,14',11th
+laptop acer swift,Acer,0.0,131418.0,i7,8gb,256gb,"14""",11th
+hp gaming laptop,HP,0.0,230000.0,intel,6gb,512 gb,,
+dell g5 g5510,Dell,0.0,180000.0,i7,6gb,512gb,"15.6""",10th
+dell xps 179720i712700h@2.69,Dell,0.0,325000.0,i7,2gb,1tb,2.69,
+acer extensa 15,Acer,0.0,64600.0,intel,8gb,512gb,,11th
+inspiron 13 5310,Dell,0.0,149900.0,i7,8gb,512gb,"13.3""",
+laptop hp pavilion,HP,0.0,99990.0,i5,8gb,256gb,"14 """,
+msi ge76 raider,MSI,0.0,350000.0,i7,2gb,2tb,"17.3""",10th
+asus rog zephyrus,ASUS,0.0,377000.0,ryzen,6gb,1tb,"15.6""",
+"macbook pro 16""",Apple,0.0,380000.0,other,6gb,512gb,"16""",
+"thinkpad t14 14""",Lenovo,0.0,217000.0,intel,,,"14""",
+dell lnspiron 15,Dell,0.0,106000.0,i5,8gb,256gb,"15.6""",
+hp laptop 14sdq2555tu,HP,0.0,102000.0,i5,2gb,512gb,,
+dell vostro 3510,Dell,0.0,86900.0,i5,4gb,1tb,"15.6""",
+dell latitude 3420,Dell,0.0,93000.0,i5,8gb,128 gb,,11th
+dell inspiron 5510,Dell,0.0,125999.0,i7,8gb,512gb,15.6',11th
+hp laptop 15,HP,0.0,107000.0,i5,8gb,512gb,"15.6""",
+hp spectre x360,HP,0.0,320000.0,i7,6gb,1tb,"13.5""",
+hp notebook 15s,HP,0.0,94000.0,intel,8gb,512gb,"15.6""",511th
+dell vostro 3400,No Brand,0.0,54500.0,i3,4gb,256gb,"14""",11th
+"hp 14 dq2053,",HP,0.0,63000.0,intel,8gb,,,11th
+dell lnspiron 15,Dell,0.0,112000.0,i5,8gb,512gb,"15.6""",
+hp laptop 15,HP,0.0,106000.0,ryzen,8gb,512gb,"15.6""",
+lenovo legion 5,Lenovo,0.0,128490.0,ryzen,8gb,512gb,,
+"asus e410ma laptop/14.0""",ASUS,0.0,37000.0,intel,4gb,256gb,"14.0""",
+asus tuf gaming,ASUS,0.0,172000.0,i7,6gb,512gb,"15.6""",711th
+victus hp laptop,HP,0.0,190000.0,i7,6 gb,512 gb,,
+2021 asus rog,ASUS,0.0,240000.0,m1,6gb,512gb,"16""",
+dell g55510 gaming,Dell,5.0,115000.0,intel,8gb,256gb,15.6,510th
+redmibook 15 pro,No Brand,0.0,89999.0,intel,8gb,512gb,,11th
+lenovo v15 laptop/,Lenovo,0.0,49000.0,other,4gb,1tb,"15.6""",
+acer aspire 5,Acer,0.0,95500.0,i7,8gb,512gb,"15.6""",11th
+asus tuf gaming,ASUS,0.0,229900.0,i7,6gb,1 tb,"15.6""",
+asus tuf dash,ASUS,0.0,119999.0,intel,8gb,512gb,"15.6""",11th
+hp laptop 15s,HP,0.0,135000.0,i7,8 gb,512 gb,,
+hp pavilion laptop,HP,0.0,143000.0,i7,8 gb,512 gb,,
+acer a31435 intel,No Brand,0.0,50900.0,intel,4gb,,,
+dell latitude 3410,Dell,0.0,79999.0,i5,4gb,1tb,"14""",10th
+dell latitude 3390,Dell,5.0,45000.0,other,8gb,128gb,2.3,
+lenovo ideapad 3i,Lenovo IdeaPad,0.0,52000.0,intel,4gb,128gb,"15.6""",11th
+hp victus 15,HP,0.0,125000.0,intel,8 gb,512 gb,,12th
+acer aspire 3,Acer,0.0,90200.0,i5,8 gb,256 gb,15.6,12 gen
+hp spectre x360,HP,0.0,230000.0,i5,8gb,512gb,,
+hp victus 15,HP,0.0,110000.0,i5,8 gb,512 gb,15.6,12 gen
+hp pavilion laptop,HP,0.0,99999.0,other,8 gb,512 gb,"15.6""",
+acer travelmate p2,Acer,0.0,56000.0,i3,8gb,256gb,14',11th
+acer aspire 3,Acer,0.0,81999.0,intel,8gb,256gb,15.6,12th
+avita model no.,Avita,0.0,93000.0,other,,,,
+asus rog flow,ASUS,0.0,238888.0,amd,6gb,1tb,"13.4""",
+acer swift x/14″,Acer,0.0,94500.0,ryzen,8gb,512gb,,
+dell latitude e5470,Dell,0.0,52250.0,intel,8gb,256gb,2.3,6th
+msi gp66 leopard11ue,MSI,0.0,262500.0,other,,,,
+asus e410 intel,ASUS,0.0,35999.0,intel,4gb,128gb,"14""",
+avita liber v14,Avita,0.0,74999.0,i5,8gb,512gb,"14""",
+acer nitro 5,Acer,0.0,117000.0,i5,8gb,512gb,"15.6""",11th
+acer spin 3,Acerco,0.0,102000.0,i5,8gb,256ssd,"14.0""",10th
+modern 15 a11mu,MSI,0.0,118000.0,intel,,,,11th
+hp pavilion x360,HP,0.0,155000.0,i7,8 gb,512 gb,,
+acer aspire 5,Acer,0.0,72999.0,intel,8gb,1tb,"15.6""",11th
+dell inspiron 14,Dell,0.0,150000.0,amd,8gb,512gb,"14""",
+victus by hp,HP,0.0,95000.0,ryzen,8gb,256gb,"16.1""",
+victus by hp,HP,0.0,230000.0,i7,6 gb,,,
+hp 14 amd,HP,0.0,49400.0,amd,4 gb,256 gb,"14 """,
+modern 15 a11mu,MSI,0.0,132000.0,intel,,,,11th
+dynabook portege x40ji51135g7,Dynabook,0.0,87990.0,i5,6gb,256gb,,
+dell inspiron 3511,Dell,0.0,90000.0,i5,8gb,512gb,,11th
+acer extensa 215,Acer,2.0,64990.0,i5,8gb,256gb,15.6,11th
+asus rog strix,No Brand,0.0,264000.0,ryzen,6gb,1tb,"15.6""",
+katana gf66 11ud,MSI,0.0,205000.0,other,,,,
+acer aspire 5,Acer,0.0,69999.0,intel,8gb,256gb,15.6,11th
+dell inspiron 15,Dell,0.0,135000.0,i7,6gb,512 gb,15.6,
+asus tuf f507,ASUS,0.0,115000.0,i5,8gb,512gb,"15.6""",
+dell inspiron 3511,Dell,0.0,77999.0,intel,8gb,256gb,"15.6""",11th
+acer swift 3,Acer,0.0,85500.0,i5,8 gb,512 gb,"14""",11 gen
+msi modern 15,MSI,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+dell inspiron 5410,Dell,0.0,99999.0,i5,8gb,256gb,14',11th
+acer nitro 5,Acer,5.0,135999.0,i7,6gb,1tb,"15.6""",10th
+lenovo ip3i /,Lenovo,5.0,55999.0,i3,4gb,256gb,"15.6""",11th
+msi gf65 10ue,MSI,0.0,180000.0,i5,6gb,512gb,"15.6""",10th
+acer predator helios,Acer,5.0,194890.0,i7,6gb,1tb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,255000.0,m1,6gb,512gb,"16""",11th
+lenovo ideapad 3,Lenovo,0.0,80500.0,ryzen,8gb,256ssd,"14""",
+evolve/intel celeron/4gb/64gb inbuilt/10”,No Brand,0.0,28900.0,intel,4gb,,,
+hp notebook 14cf3065tu,HP,0.0,55000.0,i3,4gb,128gb,,10th
+laptop acer aspire,Acer,0.0,62000.0,i3,8gb,256gb,15.6,11gen
+dell latitude 3420,Dell,0.0,81000.0,i5,4gb,1tb,"14""",11th
+business series (ultra,Lenovo,0.0,105999.0,ryzen,8gb,256gb,"13.3""",
+modern 14 b5m,MSI,0.0,100000.0,amd,,,,
+msi gl65 9sck,MSI,0.0,150000.0,i7,6gb,256gb,"15.6""",9th
+dell inspiron 3511,Dell,0.0,81000.0,i5,8 gb,512 gb,15.6,11 gen
+asus zephyrus g14,ASUS,0.0,247000.0,ryzen,6gb,1tb,"14""",
+asus zenbook 14,ASUS,0.0,154000.0,i7,6gb,512gb,"13.3""",11th
+asus tuf f15,ASUS,0.0,162000.0,i5,6gb,512gb,"15.6""",11th
+asus tuf f15,ASUS,0.0,125000.0,i5,8gb,512gb,"15.6""",10th
+lenovo ideapad 3,Lenovo,4.0,76000.0,ryzen,8gb,256gb,15.6,
+acer aspire a3,Acer,0.0,81990.0,i5,8gb,256gb,"15.6""",11th
+msi modern 14,MSI,0.0,140000.0,i7,8gb,512gb,,11th
+asus x415/ intel,ASUS,0.0,49999.0,intel,4gb,256gb,"14""",11th
+lenovo v15 intel,Lenovo,0.0,33250.0,intel,4 gb,128 gb,15.6,
+acer aspire 5,Acer,0.0,70775.0,ryzen,8 gb,512 gb,15.6,
+dell inspiron 3511,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 7405,Dell,0.0,89000.0,ryzen,8gb,256gb,14',
+dell g5 2021,Dell,0.0,135000.0,i5,6gb,512gb,"15.6""",11th
+dell inspiron 5406,Dell,0.0,153000.0,i7,8gb,512gb,"14""",11th
+dell inspirion 3501,Dell,0.0,114000.0,i7,8gb,512gb,"15.6""",11th
+dell inspiron 5410,Dell,0.0,163000.0,i7,2gb,512gb,"14""",11th
+dell inspiron 5402,Dell,0.0,119000.0,i5,8gb,512gb,"14""",11th
+dell g5 2021,Dell,0.0,185000.0,ryzen,6gb,512gb,"15.6""",
+dell inspiron 7391,Dell,0.0,118000.0,i5,8gb,256gb,13.3',10th
+dell inspiron 14,Dell,0.0,108000.0,ryzen,8gb,512gb,"14""",
+dell inspiron 7391,Dell,0.0,148000.0,i7,8gb,512gb,13.3',10th
+dell inspirion 3505,Dell,0.0,79000.0,ryzen,8gb,512gb,"15.6""",
+acer nitro 5,Acer,5.0,115999.0,i5,8gb,512gb,"15.6""",11th
+asus tuf dash,ASUS,0.0,174990.0,i7,6gb,512gb,,11th
+lenovo ideapad 3,Lenovo,0.0,118990.0,ryzen,8gb,256ssd,"15.6""",
+msi gf63 thin,MSI,0.0,152000.0,i7,8gb,512gb,"15.6""",63 th
+acer a31558 intel,No Brand,0.0,69500.0,intel,4gb,,,11th
+acer a31558 intel,No Brand,0.0,75500.0,intel,8gb,,,11th
+hp victus 15,HP,0.0,96990.0,i5,8gb,512gb,"15.6""",12th
+lenovo legion 5,Lenovo,0.0,132800.0,ryzen,4gb,512gb,15.6,
+dell vostro 3400,No Brand,0.0,54800.0,i3,4 gb,1 tb,,
+acer aspire 3,Acer,0.0,88500.0,intel,8gb,256gb,15.6,512th
+acer spin 3,Acer,0.0,74500.0,ryzen,4gb,,"14""",
+dell g3 g3590,Dell,0.0,156000.0,i7,6gb,256gb,"15.6""",9th
+dell vostro 3400,Dell,0.0,47500.0,i3,4 gb,256 gb,"14 """,11 gen
+dell vostro 3400,Dell,0.0,74900.0,intel,8gb,512gb,14',
+asus tuf fx506hcws53,ASUS,5.0,115999.0,intel,8gb,512gb,"15.6""",11th
+asus rog strix,No Brand,0.0,183000.0,ryzen,6gb,512gb,"15.6""",
+dell g5 15,Dell,0.0,145900.0,i5,,,"15.6""",511gen
+lenovo ideapad 3,Lenovo,0.0,121990.0,ryzen,8gb,256ssd,"15.6""",
+acer aspire 5,Acer,0.0,65999.0,intel,4gb,1tb,"15.6""",11th
+hp 14 dq035wm,HP,0.0,50999.0,ryzen,8gb,256gb,,
+lenovo ideapad gaming,Lenovo,0.0,145000.0,ryzen,8gb,512gb,"15.6""",
+lenovo legion 5,Lenovo,5.0,295000.0,ryzen,6gb,512gb,16',
+dell xps 15,Dell,0.0,265000.0,i7,6gb,1tb,"15.6""",10th
+modern 14 b11mou,MSI,0.0,112000.0,intel,,,,11th
+msi modern 14,MSI,0.0,112000.0,i5,,,,
+dell lnspiron 15,Dell,0.0,82999.0,i5,8gb,512gb,"15.6""",
+acer aspire 5/core,Acer,5.0,60999.0,i3,4gb,128gb,"15.6""",11th
+lenovo ideapad slim,Lenovo,0.0,119950.0,intel,,1tb,,11th
+acer aspire 3,Acer,0.0,62000.0,amd,8gb,256gb,15.6,
+hp pavilion x360,HP,0.0,100500.0,intel,8gb,512gb,"14.0""",
+acer spine chromebook,Acer,0.0,69000.0,i5,8gb,128gb,"13.5""",
+asus vivobook e410ma,ASUS,0.0,49000.0,other,4gb,256gb,"14""",
+lenovo ideapad gaming,Lenovo,0.0,104000.0,i5,8gb,256gb,"15.6""",9th
+msi gf65 10sdr,MSI,0.0,175000.0,i7,8gb,512gb,"15.6""",10th
+hp omen 16,HP,0.0,150000.0,amd,6gb,512gb,"16.1""",
+dell vostro 3400,Dell,0.0,66999.0,i5,8gb,256gb,,11th
+toshiba dynabook tecra,Toshiba,0.0,54990.0,intel,,128ssd,"14""",
+asus tuf dash,ASUS,0.0,115999.0,intel,8gb,512gb,"15.6""",11th
+lenovo legion 5,Lenovo,0.0,175000.0,ryzen,6gb,512 gb,15.6,
+dell vostro 3400,Dell,5.0,61500.0,intel,4gb,256gb,"14.0""",311th
+hp victus 15.6″,HP,0.0,102800.0,intel,8gb,512gb,15.6,12th
+microsoft surface pro,Microsoft,0.0,174800.0,i5,6gb,256gb,"12.3""",11th
+hp laptop 15sdu3538tu,HP,0.0,74900.0,i5,8gb,1tb,"15.6""",
+acer aspire 3,Acer,0.0,48000.0,amd,4gb,256gb,15.6',
+dell g5 gaming,Dell,0.0,154999.0,ryzen,6gb,512gb,"15.6""",
+lenovo ideapad 1i,Lenovo,0.0,34000.0,other,,,,
+msi pulse gl66,MSI,0.0,198000.0,i7,,,,
+dell xps 179710/i711800h@2.30/32gb,Dell,0.0,290000.0,i7,2gb,1tb,2.30,11gen
+lenovo ideapad 3,No Brand,0.0,65000.0,i3,4gb,1tb,"15.6""",310th
+gigabyte aero 16,Gigabyte,0.0,246800.0,intel,6gb,2tb,,
+hp pavilion 14dv0010wm,HP,0.0,85500.0,i5,8gb,256gb,,11th
+lenovo legion 5,Lenovo,0.0,142500.0,i5,8gb,512gb,,11th
+msi modern 15,MSI,0.0,110000.0,i5,8gb,512gb,"15.6""",10th
+asus rog strix,ASUS,0.0,158000.0,ryzen,6gb,512gb,"15.6""",
+redmi book 15,Redmi,0.0,69999.0,intel,8gb,256 ssd,"15.6""",11th
+msi modern 14,MSI,0.0,104000.0,ryzen,8gb,256gb,"14""",
+msi katana gf66,MSI,0.0,228000.0,i7,6gb,512gb,"15.6""",11th
+acer aspire 3,Acer,0.0,90000.0,i5,8gb,256gb,15.6,
+lenovo legion s7,Lenovo,0.0,198000.0,ryzen,6gb,512 ssd,"15.6""",
+dell inspiron 3511,Dell,0.0,57000.0,i3,8gb,256gb,"15.6""",11th
+modern 14 b10mw,MSI,0.0,115000.0,intel,,,,10th
+lenovo ideapad gaming,Lenovo,0.0,125000.0,ryzen,8gb,512gb,15.6,
+acer spin 3/,Acer,0.0,75000.0,other,8 gb,256 gb,"14""",
+hp 255 g8,HP,0.0,69000.0,ryzen,8gb,512gb,"15.6""",
+lenovo 3 gaming,Lenovo,0.0,97850.0,i5,8 gb,256 gb,,11 gen
+laptop acer aspire,Acer,0.0,69999.0,i5,8gb,256gb,15.6,11gen
+dell inspiron 135310/,Dell,0.0,90000.0,i5,6gb,512gb,,11gen
+lenovo ideapad 1,Lenovo,0.0,61000.0,amd,8gb,256gb,"14.0""",
+dell latitude e5270,Della,0.0,36999.0,i5,8 gb,256 gb,"13 """,56th
+acer aspire 5,Acer,0.0,78000.0,intel,8 gb,256 gb,"14 """,12 gen
+xlab xbook series,XLAB,0.0,64900.0,other,,,,
+mi notebook pro,MI,0.0,104990.0,intel,6gb,512 gb,"14""",11th
+msi modern 15,MSI,0.0,137000.0,i5,8gb,512gb,"15.6""",11th
+msi modern 15,MSI,0.0,148000.0,i7,8gb,512gb,"15.6""",11th
+acer nitro 5,No Brand,0.0,153867.0,i5,8gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,256gb,"15.6""",12th
+msi summit b15,MSI,0.0,138000.0,i5,8gb,512gb,"15.6""",11th
+msi gp66 leopard,MSI,0.0,259000.0,i7,6gb,1tb,"15.6""",10th
+msi ge65 raider,MSI,0.0,230000.0,i7,6gb,1tb,"15.6""",9th
+hp notebook 14dk1025wm,HP,0.0,61000.0,ryzen,8gb,256gb,"14""",
+"dell inspiron 153511/i511,35g7/8gb",Dell,0.0,90000.0,i5,8gb,256gb,,
+dell inspiron 15,Dell,0.0,140000.0,intel,6gb,256gb,"15.6""",
+dell new inspiron,Dell,0.0,140000.0,amd,8gb,512gb,,
+lenovo ideapad slim,Lenovo,0.0,95000.0,intel,8gb,512gb,"14""",11th
+"asus vivobook e410ma,",ASUS,0.0,49000.0,other,4gb,256gb,"14 """,
+mi notebook pro,Xiaomi,4.5,109999.0,intel,6gb,512gb,"14 """,11th
+acer aspire a51454i5,Acer,0.0,78500.0,i5,8gb,256gb,,11th
+dell vostro 3400/i3/11gen/4gb,Dell,0.0,70000.0,i3,4gb,,14',11gen
+gateway gwnc31514 intel,Gateway,0.0,42999.0,intel,4gb,128gb,"15.6""",11th
+acer aspire 5,Acer,0.0,72000.0,i5,8gb,256gb,"14 """,11th
+acer aspire 5,Acer,0.0,74000.0,i5,8gb,256gb,"14 """,11th
+gateway gwtn141 ultra,Gateway,0.0,68990.0,i5,6gb,512gb,14.1,11th
+lenovo 1 14igl7,Lenovo,0.0,34999.0,other,4gb,128gb,"14""",
+acer extensa 15,Acer,0.0,74499.0,intel,8gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,intel,8gb,512gb,"15.6""",11th
+asus g513qehn136t ryzen,ASUS,0.0,198000.0,ryzen,6 gb,512 gb,15.6,
+asus vivobook x515ea,ASUS,5.0,67000.0,i3,4gb,256 gb,15.6,11th
+chuwi minibook x,CHUWI,0.0,79040.0,intel,2gb,512gb,"10.8""",11th
+asus vivobook e410m,ASUS,5.0,32900.0,other,4gb,128gb,"14""",
+dell g5 15,Dell,5.0,145900.0,i5,8gb,256 ssd,"15.6""",
+dell 2022 inspiron,Dell,0.0,112000.0,i5,2gb,1tb,14',
+dell latitude 5320,Dell,0.0,95000.0,i5,8gb,256gb,"13.3""",11th
+dell inspiron 15,Dell,0.0,82900.0,i5,8gb,128gb,,
+"macbookpro 14.2‑"" 8core",Apple,5.0,305000.0,other,6gb,512gb,14.2,
+hp pavilion laptop,HP,5.0,101500.0,other,8 gb,512 gb,"15.6""",
+acer aspire 5,Acer,0.0,76990.0,i5,8gb,256gb,14',12th
+acer swift 3,Acer,0.0,99999.0,intel,8gb,512gb,,
+msi bravo 15,MSI,0.0,135000.0,ryzen,8gb,512gb,"15.6""",
+acer aspire 5,Acer,5.0,70000.0,intel,8 gb,256 gb,"14 """,11th
+"macbook air 13.3""",Apple,5.0,142000.0,m1,6 gb,256 gb,"13.3""",
+toshiba satellite dyna,No Brand,0.0,32500.0,other,4gb,128 ssd,"14""",
+dell alienware m15,Dell,0.0,270000.0,m1,6gb,512gb,"15.6""",10th
+acer extensa 15,Acer,0.0,65500.0,i5,8gb,256ssd,"15.6""",11th
+dell vostro 3515,Dell,0.0,73000.0,ryzen,8gb,512gb,"15.6""",
+"hp 14dk, amd",HP,2.0,50000.0,amd,8gb,256gb,,
+asus vivobook flip,ASUS,0.0,81000.0,ryzen,4gb,256gb,"14""",
+hp pavilion eh1052wm,HP,0.0,83000.0,ryzen,6gb,512gb,"15.6""",
+laptophp envy x360,HP,0.0,109000.0,i5,8gb,256gb,"13.3""",11gen
+laptop dell vostro,Dell,0.0,50500.0,i3,4gb,1tb,15.6,
+acer predator helios,Acer,0.0,196990.0,i7,6gb,512 ssd,,12th
+asus tuf dash,ASUS,0.0,174999.0,i7,6 gb,512 gb,"15.6""",12th
+hp 15s ryzen,HP,0.0,68000.0,ryzen,8 gb,512 gb,"15.6""",
+lenovo ideapad 3,Lenovo,0.0,55000.0,i3,8gb,256gb,15.6,
+asus vivobook m415da,ASUS,0.0,62999.0,ryzen,4gb,256gb,"14""",11th
+dell inspiron 15,Dell,0.0,143500.0,intel,8gb,,,11th
+hp spectre 13v113tu,No Brand,0.0,193410.0,i5,8gb,256 gb,"13.3""",7th
+dell g15 g15rea951gry,Dell,0.0,118999.0,amd,8gb,512gb,"15.6""",
+lenovo ideapad 3,Lenovo IdeaPad,0.0,78150.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 5310,Dell,0.0,145000.0,i7,6gb,512gb,"13.3""",11th
+msi modern 15,MSI,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+modern 15 a11sbu,MSI,0.0,135000.0,intel,,,,11th
+lenovo ideapad slim,Lenovo,0.0,114450.0,intel,2gb,512gb,,11th
+dell vostro 3400,Dell,5.0,72200.0,i5,8 gb,256 gb,"14 """,11 gen
+asus x415e intel,ASUS,5.0,72000.0,intel,4gb,256gb,"14""",11th
+msi gf63 thin,MSI,0.0,128000.0,i5,,,,63 th
+hp laptop 15,HP,0.0,106000.0,ryzen,8gb,512gb,"15.6""",
+lenovo v15 /,Lenovo,0.0,67000.0,ryzen,8gb,512gb,"15.6""",
+dell inspiron 7300,Dell,0.0,185000.0,i7,6gb,1tb,13.3',11th
+acer nitro 5,Acer,0.0,150000.0,i7,8gb,512gb,"15.6""",10th
+acer extensa 15,Acer,0.0,71900.0,intel,8gb,512gb,"15.6""",11th
+asus zenbook 14,ASUS,0.0,125000.0,ryzen,2gb,512gb,14',
+msi gf63 9scsr,MSI,0.0,125000.0,i5,8gb,256gb,"15.6""",9th
+asus tuf a15,No Brand,0.0,221000.0,ryzen,6gb,1tb,"15.6""",
+dell inspiron 3501,Dell,0.0,83500.0,intel,8gb,256gb,15.6,10gen
+"modern 15 a11mu,",MSI,0.0,132000.0,i7,8gb,512gb,"15.6""",11th
+asus vivobook x515ea,ASUS,0.0,62700.0,i3,4 gb,256 gb,"15.6""",11 gen
+lenovo v14 laptop,Lenovo,0.0,68400.0,i5,8 gb,256 gb,"14""",11 gen
+dell vostro 3510,Dell,0.0,109990.0,i7,8gb,512gb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,156667.0,i7,6gb,1tb,,
+dell inspiron g15,Dell,0.0,171990.0,intel,6gb,512ssd,,11th
+asus rog strix,No Brand,0.0,193000.0,ryzen,6gb,512gb,"15.6""",
+lenovo flex 5,Lenovo,0.0,61999.0,i3,4gb,256gb,"14""",11th
+msi leopard gp7611uh,MSI,0.0,375000.0,i7,6gb,1tb,"17.3""",11th
+acer aspire 5,Acer,0.0,71000.0,ryzen,8gb,512gb,15.6,
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+msi modern 15,MSI,0.0,107000.0,ryzen,8gb,256gb,"15.6""",
+dell 5502 11th,Dell,5.0,111000.0,i5,2gb,512gb,"15.6""",11th
+xlab xbook series,XLAB,0.0,64900.0,i3,8gb,256gb,"15.6""",
+hp 13″ probook,HP,0.0,146800.0,other,2gb,512gb,13.3,11th
+msi modern 15,MSI,0.0,148000.0,i7,8gb,512gb,"15.6""",11th
+asus tuf fx506hc,ASUS,0.0,113000.0,i5,8gb,512gb,"15.6""",11th
+ripple nova(8 gb/256),Ripple Device,0.0,150000.0,intel,8 gb,,,12gen
+laptop hp probook,HP,0.0,87000.0,i5,8gb,1tb,"14 """,
+dell inspiron 15,Dell,0.0,138900.0,intel,8gb,,,11th
+hp victus 15,HP,0.0,95000.0,i5,8gb,512gb,"15.6""",
+lenovo ideapad 3,Lenovo,0.0,102000.0,intel,8gb,256gb,"15.6""",
+msi modern 14,MSI,0.0,104000.0,ryzen,8gb,256gb,"14""",
+dell vostro 3400,Dell,0.0,57950.0,i3,4gb,256gb,14',11th
+dell inspiron 7405,Dell,0.0,89000.0,ryzen,8gb,256gb,14',
+acer travelmate laptop,Acer,0.0,88500.0,other,,,,
+acer nitro 5,Acer,0.0,139990.0,amd,6gb,512gb,,
+lenovo ideapad 3,Lenovo,0.0,65500.0,amd,8gb,256 gb,,
+hp 14fq1025 amd,HP,0.0,72999.0,amd,8gb,256gb,,
+xiaomi redmibook 15,Redmi,0.0,74999.0,i3,8gb,256gb,,11th
+acer aspire vero,Acer,0.0,95000.0,i5,6gb,512gb,"15.6""",11th
+dynabook tecra toshiba,Dynabook,0.0,38900.0,intel,4gb,128gb,1.9,
+new dell xps,Dell,0.0,280000.0,intel,6gb,1tb,15.6,10th
+acer aspire 5,Acer,0.0,66500.0,ryzen,8gb,256gb,"15.6""",
+asus zenbook 14,No Brand,0.0,166000.0,i7,6gb,1tb,14',
+asus zenbook flip,ASUS,0.0,175000.0,i7,,,,11th
+laptop dell vostro,Dell,0.0,71000.0,i3,8gb,256 ssd,15.6,
+msi note book,MSI,0.0,99999.0,other,,,,
+hp victus 15,HP,0.0,126000.0,amd,6gb,512gb,"15.6""",
+microsoft surface 3,Microsoft,0.0,220500.0,i5,6gb,256gb,"13.5""",5gen
+hp victus 15,HP,0.0,101000.0,i5,8gb,512ssd,"15.6""",12th
+dell inspirion 7560,Dell,0.0,86500.0,other,,,,
+asus vivobook m1503qa,ASUS,0.0,116000.0,m1,8 gb,512 gb,15.6,5th
+dell inspirion 3501,Dell,0.0,85990.0,i5,4gb,1tb,"15.6""",11th
+dell inspirion 3505,Dell,0.0,79000.0,ryzen,8gb,512gb,"15.6""",
+dell inspiron 5406,Dell,0.0,153000.0,i7,8gb,512gb,"14""",11th
+dell inspiron 7391,Dell,0.0,118000.0,i5,8gb,256gb,13.3',10th
+dell g5 15,Dell,0.0,210000.0,i7,6gb,1tb,"15.6""",10th
+dell inspirion 3501,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 3501,Dell,5.0,62000.0,i3,4gb,256gb,,10th
+dell inspiron 7405,Dell,0.0,89000.0,ryzen,8gb,256gb,14',
+msi summit e15,MSI,0.0,259000.0,i7,6gb,1tb,"15.6""",11th
+dell inspirion 3501,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+hp laptop 15,HP,0.0,65000.0,i3,4gb,256gb,"15.6""",
+"dell laptop,15 ''",Dell,0.0,91000.0,other,8 gb,512 gb,15 ',
+hp victus 15,HP,0.0,104999.0,intel,8gb,512gb,"16.1""",12th
+asus tuf dash,ASUS,0.0,154999.0,i5,6 gb,512 gb,"15.6""",12th
+hp laptop 15,HP,0.0,88000.0,ryzen,8gb,512gb,"15.6""",
+xlab xbook series,XLAB,0.0,68250.0,i3,8gb,256gb,"15.6""",
+hp victus 15,HP,0.0,153000.0,ryzen,6gb,512gb,"15.6""",
+dell vostro 3510,Dell,0.0,108000.0,i7,8gb,512gb,15.6,11th
+dell vostro 3400,Dell,0.0,82000.0,intel,8gb,256gb,"14.0""",11th
+lenovo yoga c740,Lenovo,0.0,103000.0,i5,8gb,256gb,"14""",10th
+hp laptop 15,HP,0.0,71000.0,other,,,,
+hp envy x360,HP,0.0,105000.0,i5,8gb,256gb,,11th
+laptop acer aspire,Acer,0.0,132500.0,i7,8gb,1tb,15.6,11gen
+asus zenbook 14,ASUS,0.0,127000.0,i5,8gb,512gb,"14""",11 gen
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11 gen
+msi gf63 9scsr,MSI,0.0,125000.0,i5,8gb,256gb,"15.6""",9th
+msi stealth 15m,MSI,0.0,233000.0,i7,6gb,512gb,"15.6""",11th
+asus zephyrus g14,ASUS,0.0,178000.0,ryzen,6gb,512gb,"14""",
+laptop dell vostro,Dell,0.0,83999.0,i5,8gb,512 ssd,"15.6""",
+dell g5 15,Dell,0.0,173000.0,i7,6gb,512gb,"15.6""",10th
+dell inspiron 3511,Dell,0.0,119000.0,i7,8gb,512gb,"15.6""",11th
+acer nitro 5,Acer,0.0,127000.0,other,,,,
+"hp notebook 15,",HP,5.0,76000.0,amd,8gb,256gb,"15.6""",
+dell inspiron 3511,Dell,0.0,64000.0,i3,4gb,256gb,"15.6""",11th
+acer swift 3,Acer,0.0,85000.0,ryzen,8gb,512gb,"14""",
+hp 15ef2126wm ryzen55500u/8gb,HP,0.0,65549.0,ryzen,8gb,256gb,15.6,
+lenovo ideapad 3,Lenovo,0.0,69000.0,amd,8gb,256gb,"14.0""",
+dell vostro 3510,Dell,5.0,75000.0,i5,8gb,512gb,"15.6""",11th
+"acer aspire 5,",Acer,0.0,55000.0,intel,4gb,256gb,"15.6""",11th
+dell inspiron 5310,Dell,0.0,117000.0,i5,8gb,512gb,"13.3""",11th
+msi modern 15,MSI,0.0,107000.0,ryzen,8gb,256gb,"15.6""",
+lenovo legion 5,Lenovo,0.0,165000.0,ryzen,4gb,512gb,15.6,
+dell latitude 3410,Dell,0.0,62000.0,i3,4gb,1tb,"14""",10th
+msi gf63 thin,MSI,0.0,115000.0,i5,8gb,256gb,"15.6""",63 th
+acer nitro5 intel,Acer,0.0,177900.0,intel,6gb,,,11th
+lenovo ideapad 3,Lenovo,0.0,67000.0,i5,8gb,1tb,,10th
+laptop dell vostro,Dell,0.0,75000.0,i5,8gb,256 ssd,15.6,
+"ge66 raider 10sf,",MSI,0.0,330000.0,other,8gb,1tb,"15.6""",10th
+msi gs66 stealth,MSI,0.0,235000.0,i7,6gb,512gb,"15.6""",10th
+acer nitro 5,Acer,0.0,175000.0,ryzen,6gb,,15.6,
+acer nitro 5,Acer,0.0,122000.0,i5,8gb,512gb,"15.6""",12th
+msi gs66 stealth,MSI,0.0,255000.0,i7,6gb,512gb,"15.6""",10th
+dell laptop vostro,Dell,0.0,48500.0,i3,4 gb,256 gb,"14 """,11 gen
+dell vostro 3400,Dell,0.0,48000.0,intel,4gb,256 ssd,"14""",11th
+msi modern 15,MSI,0.0,110000.0,i5,8gb,512gb,"15.6""",10th
+dell vostro 3400,Dell,0.0,67999.0,i3,8gb,512gb,14',11th
+dell gaming g5,Dell,0.0,155000.0,amd,8gb,512 gb,"15.6""",
+msi gp76 leopard,MSI,0.0,259000.0,i7,6 gb,1tb,"17.3""",10th
+acer laptop nitro,Acer,0.0,119999.0,i5,8gb,512gb,"15.6""",12th
+lenovo thinkpad x1,Lenovo,0.0,176400.0,i5,6gb,512gb,"14""",10th
+dell inspiron 5310,Dell,0.0,140000.0,i7,8gb,512gb,"13.3""",11th
+dell vostro 3510,Dell,0.0,73000.0,i5,8gb,256gb,"15.6""",11th
+dell inspiron 7501,Dell,0.0,147000.0,i5,8gb,512gb,"15.6""",10th
+asus tuf a15,ASUS,0.0,221000.0,ryzen,6gb,1tb,"15.6""",
+laptop dell latitude,Dell,0.0,92000.0,i5,8gb,1tb,"14 """,11gen
+dell inspiron 7490,Dell,0.0,118000.0,i5,8gb,256gb,14',10th
+asus zenbook 14,ASUS,0.0,151999.0,i5,6gb,512gb,"14""",12th
+hp14 ryzen 33250u/8gb,HP,0.0,50999.0,ryzen,8gb,256gb,,
+lenovo flex 5i,Lenovo,0.0,70000.0,i3,4gb,128gb,"14""",11th
+dell inspiron 7490,Dell,0.0,125000.0,i5,8gb,512gb,14',10th
+asus tuf gaming,ASUS,0.0,166400.0,amd,6gb,512gb,15.6,
+laptop dell latitude,Dell,0.0,135000.0,i7,8gb,256 ssd,"14 """,11gen
+acer swift 3,Acer,0.0,103000.0,intel,6gb,256gb,13.3',
+laptop dell lalitude,Dell,0.0,112000.0,i5,8gb,256 ssd,"14 """,11gen
+laptop acer aspire,Acer,0.0,59990.0,i3,4gb,1tb,"15.6""",10gen
+modern 15 a11sbu,MSI,0.0,150000.0,intel,,,,11th
+acer aspire fun,Acer,0.0,98000.0,i5,6gb,512gb,"14""",11th
+dell vostro 3510,Dell,0.0,60000.0,i3,4gb,1tb,"15.6""",11th
+acer swift 3,Acer,0.0,88000.0,ryzen,8gb,256gb,"14""",
+dell inspiron 3511,Dell,0.0,85499.0,i5,2gb,512gb,"15.6""",
+asus zenbook flip,ASUS,0.0,126990.0,amd,8gb,256gb,15.6,
+msi summit e15,MSI,0.0,249000.0,i7,6gb,1tb,"15.6""",11th
+asus tuf gaming,ASUS,0.0,148800.0,amd,8gb,512gb,15.6,
+asus vivobook e410m,ASUS,0.0,32500.0,other,4gb,128gb,"14""",
+msi modern 15,MSI,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+dell inspiron 3511,Dell,0.0,82800.0,i5,2gb,512gb,"15.6""",11th
+dell g5 15,Dell,0.0,165000.0,i7,6gb,1tb,"15.6""",10th
+laptop acer aspire,Acer,0.0,79990.0,i5,8gb,1tb,15.6,11gen
+acer aspire 5,Acer,0.0,80000.0,i5,8gb,256gb,"14""",11th
+asus l510 celeron,ASUS,0.0,43500.0,other,8gb,128gb,1.1,
+hp victus 16,HP,0.0,181390.0,i7,6gb,512gb,16.1,11th
+acer swift 3,Acer,0.0,110000.0,i7,2gb,512gb,,11th
+hp15 ef2126 ryzen,HP,0.0,65000.0,ryzen,6gb,256gb,15.6,
+msi gf65 9sd,MSI,0.0,165000.0,i7,6gb,512gb,"15.6""",9th
+asus tuf fa507re,ASUS,0.0,169999.0,amd,8gb,512gb,"15.6""",
+msi gl75 leopard,MSI,0.0,190000.0,i7,2gb,512gb,"15.6""",10th
+dell g5 15,Dell,0.0,199999.0,i7,,,"15.6""",711gen
+msi ge75 raider,MSI,0.0,280000.0,i7,2gb,512gb,"17.3""",9th
+dell g5 g5510,Dell,0.0,180000.0,i7,6gb,512gb,"15.6""",10th
+lenovo legion 5,Lenovo,0.0,162800.0,amd,6gb,512gb,,
+laptop dell vostro,Dell,0.0,75000.0,i5,4gb,1tb,15.6,
+acer aspire 5,Acer,0.0,69500.0,i5,8 gb,256 gb,15.6,11 gen
+hp 15 255,HP,3.0,70000.0,ryzen,8gb,256 ssd,"15.6""",
+lenovo ideapad 3,Lenovo,0.0,53000.0,amd,4 gb,256 gb,"14""",
+dell inspiron 14,Dell,0.0,150000.0,i7,6gb,512gb,"14""",12th
+msi modern 14,MSI,0.0,100000.0,other,,,,
+asus vivobook flip,ASUS,0.0,138800.0,ryzen,6gb,512gb,"14""",
+"gf63 thin 10sc,",MSI,0.0,130500.0,intel,4gb,512gb,2.6,63 th
+dell inspiron 3511,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 5510,Dell,0.0,97499.0,i5,8gb,256gb,15.6',11th
+laptop dell lalitude,Dell,0.0,118000.0,i5,4gb,1tb,"14 """,11gen
+dell vostro 3400,Dell,0.0,91000.0,i5,8gb,256gb,"14""",11th
+asus vivobook e510,ASUS,0.0,49400.0,other,4gb,256gb,"15.6""",10th
+acer spin 3,No Brand,0.0,183750.0,i7,,,,11th
+dell vostro 3510,Dell,0.0,71999.0,i5,8gb,256gb,"15.6""",11th
+ripple nova(32/512) 12gen,Ripple Device,0.0,174000.0,intel,,,,12gen
+msi modern 15,MSI,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+msi modern 14,MSI,0.0,113000.0,ryzen,8gb,256gb,"14""",
+msi summit b15,MSI,0.0,168000.0,i7,8gb,512gb,"15.6""",11th
+msi stealth 15m,MSI,0.0,223000.0,i7,6gb,512gb,"15.6""",11th
+microsoft surface pro,Microsoft,0.0,164800.0,i5,8gb,256gb,12.3,
+asus vivobook 14,ASUS,0.0,95000.0,i5,8gb,256gb,"14""",11th
+hp victus gaming,HP,0.0,110000.0,ryzen,,,,
+msi gl65 9sdk,MSI,0.0,185000.0,i7,6gb,256gb,"15.6""",9th
+asus rog strix,ASUS,0.0,288000.0,ryzen,6gb,1tb,"15.6""",
+asus vivobook s14,ASUS,0.0,118800.0,i5,8gb,512gb,"14""",11th
+asus tuf f15,ASUS,0.0,183000.0,i7,6gb,512gb,"15.6""",11th
+hp envy x360,HP,0.0,155555.0,other,,,,
+asus laptop 11,ASUS,0.0,49400.0,i3,4 gb,256 gb,"14""",11 gen
+asus vivobook 14,ASUS,0.0,63000.0,i3,4gb,256gb,"14""",10th
+razer blade 15,Razer,0.0,168800.0,i7,6gb,256gb,15.6,10 gen
+lenovo ideapad 3,Lenovo,0.0,55000.0,ryzen,4gb,256ssd,,
+msi gl65 leopard,MSI,0.0,250000.0,i7,2gb,512gb,"15.6""",10th
+gf63 thin 11uc,MSI,0.0,172500.0,intel,,,,63 th
+asus tuf dash,ASUS,0.0,278000.0,i7,6gb,1tb,"15.6""",11th
+msi prestige 15,MSI,0.0,241000.0,i7,6gb,1tb,"15.6""",11th
+msi ge76 raider,MSI,0.0,320000.0,i7,6gb,2tb,"17.3""",10th
+hp victus 15,HP,0.0,146800.0,i7,6gb,512gb,15.6,12th
+acer spin 3,Acer,0.0,90000.0,i5,8gb,512gb,"14""",11th
+dell vostro 3400,Dell,0.0,55000.0,i3,8 gb,256 gb,"14 """,11 gen
+asus r410ma intel,ASUS,0.0,38350.0,intel,4gb,128gb,"14""",
+lenovo 3 laptop,Lenovo,0.0,50350.0,i3,4 gb,128 gb,"15.6""",11 gen
+dell inspiron 13,Dell,0.0,100980.0,intel,6gb,512gb,"13.3""",
+asus rog zephyrus,ASUS,0.0,265000.0,ryzen,6gb,1tb,"15.6""",
+msi bravo 15,MSI,0.0,135000.0,ryzen,8gb,512gb,"15.6""",
+avita model no.,Avita,0.0,93000.0,other,,,,
+"modern 15 a11sbu,",MSI,0.0,135000.0,i5,8gb,512gb,"15.6""",11th
+acer aspire 3,Acer,0.0,48500.0,ryzen,4gb,256gb,"15.6""",
+lenovo ideapad flex,Lenovo,0.0,65900.0,i3,4gb,128gb,"14""",11gen
+msi creator 15,MSI,0.0,360000.0,i7,2gb,1tb,"15.6""",10th
+asus tuf f15,ASUS,0.0,162000.0,i7,6gb,512gb,"15.6""",11th
+asus vivobook x515ja,ASUS,0.0,115000.0,i7,8gb,512gb,"14""",10th
+msi bravo 15,MSI,0.0,155000.0,ryzen,8gb,512gb,15.6',
+acer aspire 3,Acer,0.0,59000.0,ryzen,8gb,128gb,1.9,
+dell inspiron 3511,Dell,0.0,83000.0,i5,8gb,512gb,"15.6""",11th
+"gf63 thin 10sc,",MSI,0.0,142500.0,intel,4gb,512gb,2.6,63 th
+asus tuf f15,ASUS,0.0,235000.0,i7,6gb,1tb,"15.6""",12th
+msi modern 14,MSI,0.0,135000.0,i5,8gb,512gb,"14""",11th
+lenovo ideapad 3,Lenovo,0.0,85000.0,ryzen,8gb,256gb,"15.6""",
+dell vostro 3400,Dell,0.0,47499.0,i3,4gb,256gb,"14""",11th
+msi modern 15,MSI,0.0,147000.0,i7,,,,
+asus tuf f15,ASUS,0.0,152000.0,ryzen,2gb,512gb,15.6,
+hp elitebook 8440,HP,0.0,40000.0,other,,,,
+asus vivobook 14,ASUS,0.0,101999.0,i5,8gb,512gb,"14""",12th
+asus vivobook x415ma,ASUS,0.0,49300.0,other,4gb,256gb,"14""",
+hp 15sfq5022n /,Lenovo,0.0,79500.0,i5,8gb,512 gb,15.6,
+dell vostro 3400,Dell,0.0,55100.0,i3,8gb,256gb,14',11th
+dell gaming 3590,Dell,0.0,115000.0,i5,8gb,512gb,"15.6""",10th
+asus vivobook 14,ASUS,0.0,108000.0,ryzen,8gb,512gb,"14""",
+lenovo ideapad 3,Lenovo,0.0,49400.0,amd,4 gb,256 gb,"14 """,
+msi gs75 stealth,MSI,0.0,280000.0,i7,6gb,1tb,"17.3""",9th
+ripple nova(16/256 gb),Ripple Device,0.0,162000.0,intel,6 gb,256 gb,,12gen
+dell vostro 3510,Dell,0.0,85000.0,i5,8gb,512gb,"15.6""",11th
+dell latitude 3420,Dell,0.0,90000.0,i5,8 gb,256 gb,"14 """,11 gen
+asus vivobook s14,ASUS,0.0,118800.0,i5,8gb,512gb,"14""",11th
+lenovo thinkpad l13,Lenovo,0.0,169500.0,other,,,,13 gen
+asus rog zephyrus,ASUS,0.0,255000.0,m1,6gb,512gb,"16""",11th
+macbook air m2,Apple,0.0,183000.0,m2,6gb,256gb,"13.6""",
+modern 15 a11m,MSI,0.0,117000.0,other,,,,
+msi gf63 thin,MSI,0.0,152000.0,i7,8gb,512gb,"15.6""",63 th
+asus tuf f15,No Brand,0.0,125000.0,i5,8gb,512gb,"15.6""",10th
+"macbook pro 13""",Apple,0.0,215000.0,m2,6gb,256gb,"13""",
+hp 15da2180nia i5,HP,0.0,77900.0,i5,4 gb,1 tb,"15.6""",10th
+msi gf63 thin,MSI,0.0,115000.0,i5,8gb,256gb,"15.6""",63 th
+dell laptop inspiron,Dell,0.0,79999.0,i5,8 gb,512 gb,15.6,11 gen
+msi gp65 leopard,MSI,0.0,195000.0,i7,2gb,512gb,"15.6""",10th
+dell inspiron 3511,Dell,0.0,84500.0,i5,8gb,512gb,"15.6""",11th
+acer predator helios,Acer,0.0,160390.0,i5,6gb,512gb,"15.6""",11th
+lenovo thinkbook 14,Lenovo,0.0,123000.0,ryzen,8gb,512ssd,"14""",14 gen
+msi prestige 14,MSI,0.0,193000.0,i7,6gb,512gb,"14""",11th
+msi modern 15,MSI,0.0,137000.0,i5,8gb,512gb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,304888.0,m1,,,,
+asus rog zephyrus,ASUS,0.0,242821.0,ryzen,,,,
+msi gf63 thin,MSI,0.0,148320.0,i5,,,,63 th
+hp laptop 15,HP,0.0,107000.0,i5,8gb,512gb,"15.6""",
+dell vostro 3510,Dell,0.0,79000.0,i5,8gb,256 ssd,,11 gen
+asus vivobook 14,ASUS,0.0,76500.0,i5,8gb,256gb,,11th
+"modern 15 a11sbu,",MSI,0.0,135000.0,i5,8gb,512gb,"15.6""",
+msi modern 14,MSI,0.0,135000.0,i5,8gb,512gb,"14""",11th
+msi prestige 14,MSI,0.0,173000.0,i5,6gb,512gb,"14""",11th
+"delta 15, amd",MSI,0.0,249000.0,amd,6gb,512gb,"5.6""",
+asus zenbook flip,ASUS,0.0,146000.0,i5,6gb,512gb,"13.3""",11th
+msi gf65 10sdr,MSI,0.0,168000.0,i5,8gb,512gb,"15.6""",10th
+msi ge66 raider,MSI,0.0,306000.0,i7,6gb,1tb,"15.6""",10th
+acer swift 3,Acer,0.0,105000.0,amd,2gb,512gb,,
+asus zenbook 13,ASUS,0.0,135000.0,i5,8gb,512gb,"13.3""",11 gen
+asus vivobook e410ma,ASUS,0.0,49000.0,other,4gb,256gb,"14""",
+lenovo yoga 6,Lenovo,0.0,115000.0,amd,8gb,512gb,"14""",
+hp 15 ryzen,HP,0.0,69825.0,ryzen,8 gb,256 gb,"15.6""",
+msi pulse gl66,MSI,0.0,259000.0,i7,6gb,1tb,"15.6""",1th
+asus vivobook 14,ASUS,0.0,88500.0,i5,8gb,512gb,,11th
+dell inspiron 7300,No Brand,0.0,118000.0,i5,8gb,256ssd,"13.3""",511th
+asus vivobook x415,ASUS,0.0,65000.0,i3,4gb,256gb,,11th
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+acer aspire 5,Acer,0.0,114990.0,i7,6gb,512gb,15.6,12th
+asus rog strix,No Brand,0.0,302400.0,ryzen,6gb,1tb,"15.6""",
+"modern 14 b11mou,",MSI,0.0,112000.0,i5,8gb,512gb,"14.0""",
+hp victus 15,HP,0.0,100000.0,i5,8gb,512gb,15.6,12th
+msi gf65 10ue,MSI,0.0,208000.0,i7,2gb,512gb,"15.6""",10th
+hp victus 15,HP,0.0,97999.0,i5,8gb,512gb,"15.6""",
+dell inspiron 3511/,Dell,0.0,79800.0,intel,8 gb,256 gb,15.6,11th
+acer aspire 3,Acer,0.0,59999.0,amd,4 gb,128 gb,15.6,
+dell inspiron 15,Dell,0.0,86500.0,i5,8gb,512 ssd,"15.6""",
+dell inspiron 3511,Dell,0.0,87999.0,intel,8gb,512gb,"15.6""",11th
+avita essential 14,Avita,0.0,48000.0,intel,,,"14 """,
+dell xps 13,Dell,0.0,235000.0,intel,6gb,512gb,"13.4""",12th
+acer aspire a51454501z,Acer,0.0,78000.0,intel,8gb,256gb,,11th
+laptop dell latitude,Dell,0.0,121000.0,i5,8gb,256gb,"14 """,11gen
+lenovo legion 5,Lenovo,0.0,200000.0,other,6gb,512gb,,
+msi prestige 14,MSI,0.0,188000.0,i7,6gb,512gb,"14""",10th
+msi gs66 stealth,MSI,0.0,386000.0,i7,2gb,1tb,"15.6""",10th
+hp omen 16,HP,0.0,160000.0,i7,6gb,,"16.1""",
+"lenovo ip3, core",Lenovo,0.0,63900.0,i3,8gb,256gb,3.0,11th
+lenovo ideapad 3,Lenovo,0.0,61900.0,i3,8gb,256gb,3.0,11th
+dell g3 3590,Dell,0.0,120000.0,i5,8gb,512gb,15.6,9th
+hp probook 630,HP,0.0,127000.0,i7,8gb,512gb,"13.3""",11th
+acer aspire 3,Acer,0.0,95000.0,i5,8gb,256gb,"15.6""",512th
+msi modern 14,MSI,0.0,147000.0,i7,8gb,512gb,"14""",11th
+lenovo ideapad slim,Lenovo,0.0,39000.0,intel,4gb,256gb,15.6,
+dell inspiron 5410,Dell,0.0,105000.0,i5,8gb,512gb,"14""",
+"hp notebook 15,",HP,0.0,68000.0,amd,8gb,256gb,"15.6""",
+lenovo ideapad flex,Lenovo,0.0,68000.0,ryzen,4gb,128gb,,
+dell inspiron 3511,Dell,0.0,61000.0,i3,4gb,128gb,"15.6""",11th
+hp envy x360,HP,0.0,130000.0,intel,8gb,512gb,13.3,12th
+asus vivobook 14,ASUS,0.0,65000.0,i3,4gb,256gb,"14""",11th
+asus vivobook e510,ASUS,0.0,49400.0,other,4gb,256gb,"15.6""",10th
+"creator m16a11uc, i7",MSI,0.0,218500.0,m1,4gb,,2.30,16 th
+asus rog strix,ASUS,0.0,174222.0,ryzen,,,,
+modern 14 b5m,MSI,0.0,100000.0,other,,,,
+asus zephyrus g14,ASUS,0.0,247000.0,ryzen,6gb,1tb,"14""",
+acer nitro 5,Acer,0.0,158000.0,amd,6gb,512 gb,15.6,
+dell g5 ryzen,Dell,0.0,132000.0,ryzen,8gb,256gb,,
+msi bravo 15,MSI,0.0,155000.0,ryzen,8gb,512gb,15.6',
+hp victus 16,HP,0.0,165000.0,i7,6gb,512gb,"16.1""",
+dell vostro 3510,Dell,4.0,70999.0,i5,8gb,256 gb,,11th
+asus f415ea i5,ASUS,5.0,74500.0,i5,8gb,256ssd,"14""",11th
+lenovo thinkpad l13,Lenovo,0.0,189000.0,other,,,,13 gen
+lenovo ideapad 3,Lenovo,0.0,67000.0,ryzen,8gb,256ssd,"14""",
+asus 14 laptop,ASUS,0.0,34500.0,other,4 gb,128 gb,"14""",
+asus rog zephyrus,ASUS,0.0,470000.0,amd,2gb,1tb,"15.6""",
+dell g5 15,Dell,0.0,175000.0,i7,6gb,512gb,15.6,10th
+"modern 14 b10mw,",MSI,0.0,102000.0,intel,8gb,,"14.0""",
+msi creator 15,MSI,0.0,418000.0,i7,2gb,1tb,"15.6""",10th
+lenovo legion 5,Lenovo,0.0,205000.0,ryzen,6 gb,512 ssd,15.6,
+laptop dell vostro,Dell,0.0,72200.0,i5,8 gb,256 gb,,
+lenovo s540 ultra,Lenovo,0.0,78000.0,intel,6gb,512gb,"13.3""",10th
+hp 14s 11th,HP,0.0,105000.0,intel,2gb,512gb,"14 """,11th
+asus vivobook m1603qar7512,ASUS,0.0,114990.0,m1,6gb,512gb,,
+dell vostro 3510,Dell,0.0,110000.0,intel,8gb,512gb,"15.6""",711th
+dell g5 15,Dell,0.0,157900.0,ryzen,,,"15.6""",
+lenovo legion 5,Lenovo,0.0,218800.0,amd,6gb,512gb,15.6,
+asus rog zephyrus,ASUS,0.0,390000.0,m1,2gb,1tb,"16""",12th
+dell alienware gaming,Dell,0.0,400000.0,ryzen,6gb,1tb,,
+dell vostro 3510,Dell,0.0,82000.0,i5,8 gb,512 gb,15.6,11 gen
+laptop hp probook,HP,0.0,89990.0,i5,,,"14 """,
+asus zenbook 14,ASUS,0.0,127000.0,i5,8gb,512gb,"14""",11 gen
+dell inspiron 13,Dell,0.0,110000.0,i5,8gb,512gb,,11th
+xiaomi redmibook 15pro,Xiaomi,0.0,89999.0,i5,8gb,512gb,,11th
+asus zenbook 14x,No Brand,0.0,214000.0,i7,6gb,1tb,14',
+msiprestige15a11scsi7 11gen16gb1t.b ssd1650ti,MSI,0.0,213000.0,i7,6gb,,,11gen
+hp omen 16,HP,0.0,204000.0,i7,6gb,,"16.1""",
+hp omen 16,Acer,3.0,172500.0,i7,6gb,512gb,,
+acer nitro 5,Acer,4.0,107350.0,i5,8gb,512 gb,,11 gen
+dell inspirion 3505,Dell,0.0,79000.0,ryzen,8gb,256gb,"15.6""",
+acer aspire 5,Acer,0.0,78500.0,intel,8gb,256 gb,,12th
+msi delta 15,MSI,0.0,249000.0,other,,,,
+asus rog strix,ASUS,0.0,398000.0,ryzen,6gb,1tb,,
+asus vivobook x515ja212,ASUS,0.0,61900.0,i3,8gb,256gb,15.6,10th
+hp 15ef2127 amd,HP,0.0,77000.0,amd,6gb,256gb,2.1,
+"modern 14 b11mou,",MSI,0.0,126000.0,intel,8gb,512gb,"14.0""",
+hp 14 i311th,HP,5.0,64000.0,i3,8gb,256gb,"14""",311th
+msi gl65 9sck,MSI,0.0,150000.0,i7,6gb,256gb,"15.6""",9th
+dell vostro 3510,Dell,0.0,56000.0,i3,4gb,256 gb,"15.6""",11th
+msi note book,MSI,0.0,195000.0,other,,,,
+lenovo thinkpad l14,Lenovo,0.0,152000.0,intel,2gb,512gb,"14""",14 gen
+dell inspiron 3511,Dell,4.0,90000.0,i5,2gb,1tb,"15.6""",11th
+asus e410 intel,ASUS,0.0,51450.0,intel,4gb,128gb,"14""",
+dell vostro 3400,Dell,0.0,50490.0,i3,4gb,256 gb,,
+dell inspiron 3511/core,Dell,0.0,90500.0,i5,6gb,512gb,"15.6""",11th
+msi modern 15,MSI,0.0,135000.0,i5,,,,
+asuspro p1440f intel,ASUS,0.0,46999.0,intel,4gb,128gb,"14""",
+laptop dell vostro,Dell,0.0,54500.0,i3,4 gb,1 tb,,
+dell inspiron 3511,Dell,0.0,82649.0,i5,8gb,256 ssd,"15.6""",
+hp 15s laptop,HP,0.0,100000.0,intel,8gb,512gb,,11th
+laptop dell latitude,Dell,0.0,135000.0,i7,8gb,256gb,"14""",11gen
+msi leopard gp66,MSI,0.0,345500.0,i7,6gb,1tb,,11th
+dell inspirion 3501,Dell,0.0,114000.0,i7,8gb,512gb,15.6,11th
+katana gf66 11ud,MSI,0.0,189900.0,other,,,,
+dell inspiron 5410,Dell,0.0,135999.0,i7,8gb,512gb,14',11th
+laptop dell latitude,Dell,0.0,142000.0,i7,6gb,512 ssd,"14 """,11gen
+msi gf63 thin,MSI,0.0,125500.0,i5,,,,63 th
+hp laptop 14sdq2555tu,HP,0.0,97777.0,intel,8 gb,512 gb,"14""",
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,256gb,"15.6""",12th
+msi modern 14,MSI,0.0,102000.0,i5,,,,
+msi modern 14,MSI,0.0,113000.0,ryzen,8gb,256gb,"14""",
+acer aspire 3,Acer,0.0,82000.0,i5,8gb,256gb,15.6,12th
+dell g5 15,Dell,0.0,211500.0,ryzen,,,"15.6""",
+laptop acer aspire,Acer,0.0,91999.0,i5,8gb,128gb,"14 """,11gen
+dell inspiron 15,Dell,0.0,64900.0,i3,,,,
+"macbook pro 14""",Apple,0.0,280000.0,other,6gb,512gb,"14""",
+msi summit b15,MSI,0.0,138000.0,i5,8gb,512gb,"15.6""",11th
+asus vivobook 15,ASUS,0.0,144000.0,i7,6gb,512gb,"15.6""",11th
+specifications of dell,Dell,0.0,87000.0,i5,8gb,256gb,"15.6""",
+acer aspire 5,Acer,0.0,75498.0,other,8gb,256gb,"14""",
+avita liber v14,Avita,0.0,85000.0,i5,8gb,512gb,,10th
+msi modern 14,MSI,0.0,147000.0,i7,8gb,512gb,"14""",11th
+asus tuf f15,ASUS,0.0,235000.0,i7,6gb,1tb,"15.6""",12th
+hp victus 15,HP,0.0,110000.0,i5,4gb,512gb,"15.6""",12th
+acer aspire 5,Acer,0.0,75000.0,i5,8 gb,256 gb,15.6,11 gen
+lenovo ideapad 3,Lenovo,0.0,51800.0,ryzen,4gb,256ssd,"14""",
+asus tuf dash,ASUS,0.0,205000.0,i7,6gb,512gb,"15.6""",11th
+acer travelmate i5,Acer,0.0,80000.0,i5,8gb,256gb,"14""",10th
+acer aspire 5,Acer,0.0,62000.0,i3,4gb,1tb,"15.6""",11th
+dell vostro 3400,Dell,0.0,80999.0,i5,8gb,512gb,,11th
+acer predator helios,Acer,0.0,194800.0,intel,6gb,512 ssd,15.6,
+acer swift 3,Acer,0.0,95950.0,i7,8 gb,256 gb,"14 """,11 gen
+dell inspirion 3501,Dell,0.0,85990.0,i5,4gb,1tb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,293000.0,ryzen,6gb,1tb,14',
+asus vivobook x513e,ASUS,0.0,50900.0,i3,4gb,256gb,15.6,11th
+modern 14 b10mw,MSI,0.0,102000.0,intel,,,,10th
+hp victus 16,HP,0.0,131250.0,ryzen,8gb,256gb,"15.6""",
+asus zenbook 13,ASUS,0.0,135000.0,i5,8gb,512gb,"13.3""",11 gen
+asus vivobook x515ea,ASUS,0.0,89000.0,i5,8gb,512gb,15.6,11th
+msi gf63 thin,MSI,0.0,165600.0,i7,,,,63 th
+asus transformer t101hac4gr,ASUS,0.0,33000.0,other,4gb,,"10.1""",
+lenovo ip3 10th,Lenovo,5.0,65000.0,i3,4gb,1tb,,10th
+asus l510mawb04 celeron,ASUS,0.0,49000.0,other,4gb,128 ssd,"15.6""",10 gen
+asus zenbook 14,ASUS,0.0,171999.0,i7,6gb,512gb,"14""",12th
+hp pavilion laptop,HP,0.0,140000.0,i7,8 gb,512 gb,,
+dell inspiron 13,Dell,0.0,110000.0,i5,8gb,512gb,,11th
+"hp 15ef1071wm 15.6""",HP,0.0,54999.0,amd,8gb,128gb,"15.6""",
+dell inspiron 7405,Dell,0.0,95000.0,ryzen,8gb,256gb,,
+microsoft surface 3,Microsoft,0.0,249000.0,i7,6gb,256gb,"15""",7gen
+asus tuf dash,ASUS,0.0,184990.0,i7,6gb,512gb,"15.6""",11th
+hp omen 16,HP,0.0,199000.0,i7,6gb,,"16.1""",
+acer extensa 15,Acer,0.0,69900.0,i5,8gb,512gb,15.6,
+dell vostro 3400,Dell,0.0,55000.0,i3,8gb,256gb,,11th
+msi morden b11m,MSI,0.0,98000.0,intel,8 gb,512 ssd,14.0,11th
+"modern 15 a11sbu,",MSI,0.0,150000.0,i7,2gb,512gb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,235500.0,amd,6gb,1tb,,
+msi gf63 thin,MSI,0.0,136800.0,i7,,,,63 th
+"lenovo ip3 ,gaming",Lenovo,0.0,108000.0,i5,8gb,256gb,"15.6""",11th
+dell inspiron 7506,Dell,0.0,115000.0,other,,,,
+lenovo thinkpad p14s,Lenovo,0.0,230000.0,intel,6gb,512gb,,12 gen
+asus rog zephyrus,ASUS,0.0,255000.0,m1,6gb,512gb,"16""",11th
+msi gf63 thin,MSI,0.0,110000.0,i5,8gb,256gb,"15.6""",63 th
+"hp laptop 15sdu3538tu,",HP,0.0,85000.0,intel,,,,
+dell vostro 3510,Dell,0.0,86000.0,i5,8gb,256gb,"15.6""",11th
+acer spin 3/,Acer,0.0,95000.0,other,8 gb,256 gb,"14""",
+dynabook/intel celeron/4gb ddr4/128gb,No Brand,0.0,47500.0,intel,4gb,128gb,,
+lenovo thinkbook 13s,Lenovo,0.0,121999.0,i5,6gb,512gb,"13.3""",11th
+acer laptop a51556g,Acer,0.0,103900.0,i5,,,,
+lenovo v14 /,Lenovo,0.0,48300.0,i3,,,,10th
+acer aspire 3,Acer,0.0,60000.0,ryzen,4gb,1tb,"14""",
+hp notebook 15,HP,0.0,81200.0,i5,8gb,512gb,"15.6""",12gen
+dell vostro 3510,Dell,0.0,60000.0,i3,4gb,1tb,"15.6""",11th
+lenovo flex5 15itl05,Lenovo,5.0,170000.0,i7,6gb,1tb,15.6,
+modern 15 a11mu652us,MSI,0.0,125000.0,other,,,,
+hp victus 15,HP,0.0,165000.0,i7,6gb,512gb,"15.6""",
+acer extensa 15,Acer,0.0,69999.0,i5,8gb,512ssd,,11th
+"acer swift 3,",Acer,5.0,97000.0,i7,8gb,256gb,"14""",11th
+"modern 15 a11mu,",MSI,0.0,118000.0,i5,8gb,512gb,"15.6""",
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+acer nitro 5,Acer,0.0,159600.0,i7,,,,
+dell vostro 3400,Dell,0.0,70290.0,i5,8gb,256 gb,,
+dell inspiron 7306,Dell,0.0,188000.0,i7,6gb,512gb,13.3',11th
+asus vivobook r565eaus31t,ASUS,0.0,58999.0,intel,4gb,128gb,"15.6""",
+dell inspiron 3511,Dell,0.0,85000.0,i5,8gb,512gb,"15.6""",11th
+hp victus 15,HP,0.0,132500.0,i5,8gb,512gb,15.6,12th
+dell g5 15,Dell,0.0,150000.0,i5,8gb,256ssd,,
+dell g5 15,Dell,0.0,226900.0,i7,,,"15.6""",711gen
+acer nitro 5,Acer,0.0,120000.0,ryzen,4gb,,15.6,
+acer aspire 3,Acer,0.0,60000.0,ryzen,4gb,1tb,"14""",
+asus vivobook 15,ASUS,0.0,93000.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 15,Dell,0.0,88900.0,i5,4gb,1tb,,
+dell g5 g5510,Dell,0.0,180000.0,i7,6gb,512gb,"15.6""",10th
+acer swift 3,No Brand,0.0,178500.0,i7,,,,11th
+hp envy x360,HP,0.0,129000.0,intel,8gb,512gb,"13.3""",12th
+hp 15sdu2101tu 15.6,HP,0.0,78500.0,intel,4gb,1tb,15.6,10th
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11th
+asus tuf dash,ASUS,0.0,170000.0,i5,6gb,,,11th
+asus rog strix,ASUS,0.0,158000.0,ryzen,6gb,512gb,"15.6""",
+dell inspiron g5,Dell,0.0,110000.0,i5,6gb,512gb,15.6,510th
+gf63 thin 11uc,MSI,0.0,154500.0,intel,,,,63 th
+hp omen 16,HP,0.0,180000.0,i7,6gb,512 ssd,16.1,711th
+dell vostro 3510,Dell,0.0,106499.0,i7,8gb,512gb,"15.6""",11th
+"hp 14"" fhd,",HP,0.0,51999.0,amd,4gb,1tb,"14""",
+acer aspire 5,Acer,0.0,68500.0,amd,8gb,256gb,15.6,
+acer nitro 5,Acer,0.0,120000.0,i5,8gb,512gb,"15.6""",11th
+lenovo ideapad flex,Lenovo,0.0,56500.0,amd,4gb,128 gb,,
+lenovo legion 5,Lenovo,0.0,194500.0,ryzen,6gb,,,
+dell inspiron 7306,Dell,0.0,188000.0,i7,6gb,512gb,13.3',11th
+acer aspire 3,Acer,0.0,90000.0,i5,8gb,256gb,"15.6""",11th
+asus tuf f15,ASUS,0.0,162000.0,i7,6gb,512gb,"15.6""",11th
+hp 15ef2126 ryzen,HP,0.0,78000.0,ryzen,8gb,512 gb,15.6,
+acer swift 3,Acer,0.0,103000.0,intel,8gb,256gb,3.0,11th
+msi gf63 thin,MSI,0.0,135840.0,i5,,,,63 th
+msi ge66 raider,MSI,0.0,285000.0,i7,,,,
+dell inspiron 3511,Dell,0.0,112000.0,i5,8gb,512gb,"15.6""",11th
+dell vostro 3400,Dell,0.0,49400.0,i3,4gb,1tb,14',311th
+"delta 15, amd",No Brand,0.0,225000.0,amd,0gb,,,
+level51 gg gaming,No Brand,0.0,190000.0,i7,6gb,500gb,15.6,
+hp victus 15,HP,0.0,119000.0,i5,8gb,512gb,,12th
+dell inspiron 5310,Dell,0.0,145000.0,i7,6gb,512gb,"13.3""",11th
+msi modern 15,MSI,0.0,132000.0,i7,,,,
+acer travelmate p2,Acer,0.0,53000.0,i3,8gb,256gb,14',
+msi stealth gs77,MSI,0.0,246800.0,i7,6gb,1tb,17.3,12th
+asus tuf f15,ASUS,5.0,110500.0,i5,8gb,512gb,"15.6""",10th
+msi delta 15,MSI,0.0,249000.0,other,,,,
+asus vivobook pro,ASUS,0.0,194000.0,ryzen,6gb,1tb,"15.6""",
+acer swift 3,Acer,0.0,99000.0,i7,8gb,256gb,"14""",11th
+acer aspire 5,Acer,0.0,67000.0,i3,4gb,256gb,"15.6""",12th
+acer aspire 5,Acer,0.0,71900.0,intel,8gb,256gb,"14""",11th
+dell vostro 7500,Dell,0.0,175000.0,i7,6gb,1tb,"15.6""",10th
+hp laptop 15s,HP,0.0,132222.0,i7,8 gb,512 gb,,
+dell gaming 3590,Dell,0.0,100000.0,i5,8gb,512gb,"15.6""",9th
+dell inspiron 3505,Dell,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+acer triton 300,Acer,0.0,225000.0,i7,6gb,,,11th
+dell g5 15,Dell,0.0,170000.0,i7,6gb,512gb,"15.6""",10th
+lenovo thinkpad l14,Lenovo,0.0,195000.0,i7,8gb,,"14""",14 gen
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+acer aspire 3,Acer,0.0,56000.0,amd,4gb,256gb,15.6,
+laptop lenovo v15,Lenovo,0.0,75000.0,other,,,,
+hp 14 core,HP,0.0,58000.0,i3,4gb,128gb,,10th
+lenovo ideapad flex,Lenovo,0.0,65000.0,ryzen,4gb,128gb,"14""",
+dell inspiron 5415,Dell,0.0,115000.0,ryzen,8gb,512gb,"14""",
+lenovo thinkbook 15,Lenovo,0.0,85000.0,amd,8 gb,256 gb,"15.6""",
+acer aspire 5,Acer,0.0,62000.0,i3,4gb,1tb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,81000.0,ryzen,4gb,256gb,"14""",
+hp victus 16.1″,HP,0.0,192800.0,intel,6gb,512 gb,16.1,12th
+"asus vivobook e410ma,",ASUS,0.0,49333.0,other,4gb,256gb,"14 """,
+acer predator helios,Acer,0.0,250000.0,i7,6gb,1tb,"15.6""",11th
+dell g5 5500,Dell,0.0,109999.0,i5,8gb,256gb,"15.6""",
+asus rog strix,ASUS,0.0,283110.0,ryzen,,,,
+asus rog zephyrus,ASUS,0.0,372000.0,amd,6gb,512gb,"15.6""",
+hp 2126 amd,HP,0.0,68400.0,amd,8gb,256gb,"15.6""",
+acer aspire 5/iintel,Acer,0.0,58000.0,intel,4gb,128gb,"15.6""",11th
+hp 15dy2095 wm,HP,0.0,81880.0,i5,8gb,256gb,,11gen
+dell inspiron 15ryzen3_quad,Dell,0.0,77500.0,ryzen,,,15.6,
+asus vivobook x415ma,ASUS,0.0,49300.0,other,4gb,256gb,"14""",
+asus ga401q zephyrusryzen,ASUS,5.0,200000.0,ryzen,6gb,,15.6,
+dell inspiron 3511,Dell,0.0,61000.0,i3,4gb,128gb,"15.6""",11th
+acer aspire 5,Acer,0.0,53550.0,other,,,,
+acer travelmate i5,Acer,0.0,80000.0,i5,8gb,256gb,"14""",10th
+asus vivobook 15,ASUS,0.0,104000.0,i5,8gb,512gb,"15.6""",12th
+"gf63 thin 10uc,",MSI,0.0,153000.0,intel,4gb,512gb,"5.6""",63 th
+lenovo s540 ultralight,Lenovo,5.0,86000.0,i5,2gb,512gb,"13.3""",510th
+hp 15 dy2791wm,HP,0.0,58000.0,intel,8gb,256gb,15.6,11th
+asus vivobook 15,ASUS,0.0,71111.0,i3,4gb,256gb,"15.6""",12th
+dell g5 g5510,Dell,0.0,180000.0,i7,6gb,512gb,"15.6""",10th
+msi note book,MSI,0.0,111500.0,other,,,,
+laptop acer aspire5,Acer,0.0,95000.0,i5,8gb,512ssd,,11th
+dell inspiron 15,Dell,0.0,89000.0,i5,8gb,256ssd,,
+hp 14dq1043 i3,HP,0.0,60500.0,i3,8gb,256 gb,,10 th
+acer laptop swift,Acer,0.0,148500.0,i7,,,,
+dell xps 13,Dell,0.0,200000.0,i7,6gb,512gb,13.3',10 gen
+asus zenbook 14,ASUS,0.0,182000.0,i7,6gb,512gb,"14""",11th
+asus vivobook flip,ASUS,0.0,99999.0,ryzen,8gb,256gb,,
+dell vostro 3510,Dell,0.0,65000.0,i3,4gb,1tb,,
+asus vivobook 15,ASUS,0.0,93000.0,ryzen,8gb,256gb,"15.6""",
+dell g5 15,Dell,0.0,185000.0,i7,6gb,512gb,"15.6""",10th
+dell inspiron 3511,Dell,0.0,77000.0,i5,8gb,256gb,"15.6""",11th
+dell inspiron 3501,Dell,0.0,87400.0,intel,2gb,256gb,,11 gen
+asus vivobook 14,ASUS,0.0,57000.0,i3,4gb,256gb,"14""",11th
+dell inspiron 3511,Dell,0.0,80000.0,i5,8gb,256 gb,,11th
+acer laptop a51556g,Acer,0.0,86000.0,i5,,,,11th
+dell inspiron 5410,Dell,0.0,129000.0,i5,8gb,512gb,"14""",11th
+acer swift 3,Acer,0.0,79000.0,ryzen,8gb,256gb,"14""",
+dell inspiron 3511,Dell,0.0,61000.0,i3,4gb,128gb,"15.6""",11th
+lenovo e4145 amd,Lenovo,0.0,45000.0,amd,4gb,1tb,,
+hp14fq0013dx ryzen 33250u/8gb,HP,0.0,57000.0,ryzen,8gb,256gb,,
+acer nitro 5,Acer,0.0,114450.0,intel,8gb,512gb,15.6,
+hp 15ef1013dx amd,HP,0.0,105000.0,amd,8gb,512ssd,,
+dell vostro 3400,Dell,0.0,57750.0,intel,4gb,1tb,,11 gen
+dell inspiron 5391,Dell,0.0,115000.0,i5,8gb,512gb,13.3',10th
+hp victus 15,HP,0.0,121800.0,i5,8 gb,512ssd,,12th
+dell inspiron 3511,Dell,0.0,82800.0,i5,8gb,512gb,,511th
+acer nitro 5,Acer,0.0,155000.0,i7,6gb,512gb,"15.6""",10th
+lenovo ideapad 3,Lenovo IdeaPad,0.0,70000.0,other,,,,
+dell inspiron 7506,Dell,0.0,115000.0,other,,,,
+hp 14sfq1052au amd,HP,0.0,63000.0,amd,4gb,256gb,,
+dell vostro 3400,Dell,0.0,51100.0,i3,4gb,256gb,"14""",11th
+lenovo ideapad 3,Lenovo,0.0,69999.0,amd,8gb,256gb,15.6,
+asus zenbook 14,ASUS,0.0,98000.0,amd,6gb,256gb,,
+hp 15sdu2101tu 15.6,HP,0.0,89200.0,intel,8gb,256gb,15.6,10th
+dell xps 13,Dell,0.0,155000.0,i7,8gb,256gb,13.3',10 gen
+dell g5 2021,Dell,0.0,195000.0,i7,6gb,512gb,"15.6""",11th
+lenovo ideapad flex,Lenovo,0.0,58000.0,amd,4gb,256gb,"11.6""",
+laptop hp pavilion,HP,0.0,74990.0,i3,8gb,128gb,"14 """,11gen
+dell inspiron 3501,Dell,0.0,114000.0,i7,8gb,512gb,,11th
+hp 240 g7,HP,0.0,66700.0,i3,,,,10th
+hp envy x360,HP,0.0,150000.0,i7,8gb,512gb,"13.3""",11th
+"gf63 thin 10uc,",MSI,0.0,141500.0,intel,4gb,512gb,"15.6""",63 th
+dell vostro 3510,Dell,0.0,98000.0,intel,8gb,512gb,"15.6""",511th
+asus tuf dash,ASUS,0.0,163000.0,other,,,,
+dell inspirion 5493,Dell,0.0,90000.0,i5,8gb,512gb,"14""",10th
+dell inspiron 5400,Dell,0.0,121000.0,i7,8gb,512gb,"14""",10th
+dell vostro 3400,Dell,0.0,51999.0,i3,4gb,1tb,14',311th
+hp envy x360,HP,0.0,126500.0,i7,8gb,512gb,"13.3""",12th
+asus vivobook e510,ASUS,0.0,49400.0,other,4gb,256gb,"15.6""",10th
+lenovo legion 5,Lenovo,0.0,170000.0,ryzen,8gb,,,
+dell vostro i5/11th,Dell,0.0,82000.0,i5,8gb,256 ssd,"15.6""",11th
+acer nitro 5,Acer,0.0,140000.0,i5,6gb,512 ssd,"15 """,
+dell vostro 3510,Dell,0.0,61000.0,i3,4gb,1tb,"15.6""",11th
+asus vivobook f415ea,ASUS,0.0,80000.0,i5,8gb,256gb,,11th
+acer swift 3,Acer,0.0,88000.0,ryzen,8gb,256gb,"14""",
+acer aspire 5,Acer,0.0,63999.0,i3,8gb,128gb,"15.6""",10gen
+hp notebook 15ef2127,HP,0.0,78000.0,ryzen,8gb,256gb,"15.6""",
+lenovo ideapad l3,Lenovo,0.0,48000.0,other,4gb,256gb,"15.6""",10th
+dell inspiron 5515,Dell,0.0,85000.0,ryzen,8gb,256gb,"15.6""",
+asus zenbook 13,ASUS,0.0,135000.0,i5,2gb,512gb,13',511th
+acer nitro 5,Acer,0.0,120000.0,i5,,,,11th
+summit e13 flip,No Brand,0.0,226000.0,other,,,,
+lenovo ideapad 3,Lenovo IdeaPad,0.0,135000.0,i7,8gb,256gb,"15.6""",
+acer predator helios,Acer,0.0,191999.0,intel,6gb,512gb,"15.6""",12th
+dell inspiron 3511,Dell,0.0,112999.0,i7,8gb,512gb,"15.6""",11th
+dell inspiron 3511,Dell,0.0,64000.0,i3,4gb,256gb,"15.6""",11th
+dell inspiron 5406,Dell,0.0,100000.0,i5,8gb,256 gb,,11th
+asus rog zephyrus,ASUS,0.0,175000.0,m1,6gb,512gb,"15.6""",
+ge66 raider 10ug,MSI,0.0,370000.0,other,,,,
+asus rog zephyrus,ASUS,0.0,370221.0,ryzen,,,,
+asus vivobook 15,ASUS,0.0,144000.0,i7,6gb,512gb,"15.6""",11th
+dell vostro 3400,Dell,0.0,85000.0,i5,8gb,256gb,"14""",11th
+dell inspiron 3511,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell latitude 3420,Dell,0.0,81000.0,i5,4gb,1tb,"14""",11th
+asus zenbook 14,ASUS,0.0,112100.0,ryzen,8gb,512gb,"14""",
+hp 15sdu2101tu/ 10th,HP,0.0,85600.0,intel,8gb,256gb,15.6,10th
+"dell laptop,15 ''",Dell,0.0,71500.0,other,8 gb,256 gb,15 ',
+dell inspiron 3511,Dell,0.0,99000.0,i5,8gb,512gb,15.6,11th
+acer aspire 3,Acer,0.0,90000.0,amd,8gb,256gb,"15.6""",
+acer aspire fun,Acer,0.0,98000.0,i5,6gb,512gb,"14""",11th
+lenovo thinkpad x1,Lenovo,0.0,198000.0,i5,6gb,512gb,"14""",10th
+dell inspiron 7405,Dell,0.0,95000.0,ryzen,8gb,256 gb,,
+msi morden b5m,MSI,0.0,99000.0,ryzen,8gb,512 ssd,14.0,
+hp 14 dk1031dx,HP,0.0,65000.0,ryzen,8gb,1tb,,
+dell inspiron 3511,Dell,0.0,84000.0,i5,8gb,1tb,,11th
+asus vivobook s14,ASUS,0.0,118800.0,i5,8gb,512gb,"14""",11th
+asus zenbook 14,ASUS,0.0,127000.0,i5,8gb,512gb,"14""",11 gen
+toshiba terca a40,Toshiba,0.0,39000.0,other,4gb,128gb,"14""",
+asus zenbook duo,ASUS,0.0,228000.0,i7,6gb,1tb,"14""",11th
+asus tuf f15,ASUS,0.0,125000.0,i5,8gb,512gb,"15.6""",10th
+acer aspire vero,Acer,0.0,107000.0,i7,6gb,512gb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,116000.0,ryzen,8gb,512gb,"14""",
+newly lunchedlenovo yoga,Lenovo,0.0,109990.0,other,8gb,256gb,2.1,
+asus vivobook x513ea,ASUS,4.5,57000.0,intel,4gb,256 ssd,"15.6""",11th
+asus vivobook flip,ASUS,0.0,116000.0,ryzen,8gb,512gb,"14""",
+asus f415 i3,ASUS,0.0,55000.0,i3,4gb,256ssd,"14""",11th
+dell vostro 3510,Dell,0.0,107999.0,intel,8gb,512gb,"15.6""",11th
+dell alienware m15,Dell,0.0,360000.0,m1,2gb,1tb,"15.6""",
+dell inspiron 3511,Dell,0.0,64000.0,i3,4gb,256gb,"15.6""",11th
+acer nitro 5,Acer,0.0,170000.0,amd,6gb,512 ssd,"15.6""",
+asus vivobook 14,ASUS,0.0,65000.0,i3,4gb,256gb,"14""",11th
+dell inspirion 3501,Dell,0.0,99750.0,i5,8gb,512gb,15.6',11th
+acer nitro 5,Acer,0.0,107000.0,i5,8gb,512gb,"15.6""",11th
+asus vivobook 15,ASUS,0.0,105000.0,i5,8gb,512gb,"15.6""",11th
+hp notebook 14fq1051au,HP,0.0,59849.0,ryzen,4gb,256gb,"14""",
+lenovo ip 1,Lenovo,0.0,42500.0,other,8 gb,128 gb,"14""",
+hp 14 |core,HP,0.0,64000.0,i3,8gb,256gb,,11th
+asus rog zephyrus,ASUS,0.0,337555.0,ryzen,,,,
+dell g55510 gaming,Dell,0.0,112000.0,intel,8gb,256gb,"15.6""",510th
+asus tuf f15,ASUS,0.0,157000.0,i7,6gb,512gb,"15.6""",10th
+lenovo slim 7,Lenovo,0.0,115000.0,i5,8gb,512gb,"14""",10th
+hp notebook 14fq1051au,HP,0.0,65000.0,ryzen,,,,
+dell latitude 3410,Dell,0.0,62000.0,i3,4gb,1tb,"14""",10th
+acer aspire 5,Acer,0.0,65000.0,i3,4gb,128ssd,"15.6""",10th
+dell g3 g3590,Dell,0.0,156000.0,i7,6gb,256gb,"15.6""",9th
+dell vostro 3400,Dell,0.0,75000.0,i5,8 gb,256 gb,"14 """,11 gen
+acer predator helios,Acer,0.0,176800.0,intel,6gb,512 ssd,15.6,
+hp 14 fq0110,HP,0.0,58000.0,ryzen,4gb,256gb,"14""",
+dell g5 15,Dell,0.0,188000.0,i7,6gb,1tb,"15.6""",10th
+lenovo legion 5,Lenovo,0.0,196500.0,ryzen,6gb,512gb,,
+hp envy 13,HP,0.0,130000.0,i7,8gb,512 gb,13.3,11th
+apple macbook air,Apple,0.0,191500.0,m2,8gb,256gb,,
+lenovo ideapad 1,Lenovo,0.0,43000.0,amd,4gb,128gb,"14""",
+lenovo slim 7,Lenovo,0.0,105000.0,i5,8gb,256gb,"14""",10th
+asus rog zephyrus,ASUS,0.0,339000.0,m1,2gb,1tb,"16""",11th
+hp victus 15,HP,0.0,104500.0,i5,8 gb,512 gb,15.6,12 gen
+dell vostro 3510,Dell,0.0,83000.0,i5,8gb,512gb,"15.6""",11th
+asus x415 intel,ASUS,0.0,86000.0,intel,8gb,256gb,"14""",511th
+dell inspiron 3511,Dell,0.0,84000.0,i5,8gb,256gb,,10th
+dell g5 15,Dell,0.0,210000.0,i7,6gb,1tb,"15.6""",10th
+acer aspire 5,Acer,0.0,82000.0,ryzen,8gb,256gb,"15.6""",
+hp laptop 14sdq2555tu,Dell,0.0,97650.0,intel,8 gb,512 gb,"14""",
+lenovo ideapad 5,Lenovo,0.0,95000.0,i5,8gb,512gb,"15.6""",11th
+asus rog strix,ASUS,0.0,255000.0,ryzen,6gb,1tb,"15.6""",
+acer aspire 5,Acer,0.0,71000.0,i5,4gb,1tb,"15.6""",11th
+acer aspire 3,Acer,0.0,74000.0,i5,4gb,1tb,"15.6""",10th
+asus vivobook 14,ASUS,0.0,104000.0,i5,8gb,512gb,"14""",12th
+dell vostro 3500,Dell,0.0,110000.0,i7,8gb,512gb,"15.6""",11th
+hp pavilion 14,HP,0.0,100800.0,i5,8gb,256gb,,10th
+acer aspire 5,Acer,0.0,112000.0,i7,8gb,512gb,"14""",11th
+hp envy 13,HP,0.0,142500.0,amd,8gb,512gb,,
+dell inspiron 3501,Dell,0.0,85000.0,intel,,,,11th
+dell inspiron 3511,Dell,0.0,95000.0,i5,8gb,512gb,,11th
+asus vivobook x415ma,ASUS,0.0,49300.0,other,4gb,256gb,"14""",
+acer nitro 5,Acer,0.0,133875.0,amd,8gb,512gb,"15.6""",
+acer swift 3,Acer,0.0,88000.0,ryzen,8gb,256gb,"14""",
+asus vivobook 14,ASUS,0.0,65000.0,i3,4gb,256gb,"14""",11th
+"asus x515ep (11th,",ASUS,0.0,102222.0,i5,2 gb,512 gb,"15.6""",11th
+katana gf66 11uc,MSI,0.0,174000.0,other,,,,
+dell latitude 3430,Dell,0.0,164800.0,i7,8gb,512gb,,12th
+asus zenbook 13,ASUS,0.0,162000.0,i7,6gb,512gb,"13.3""",11th
+hp pavilion 15eh1070,HP,0.0,114450.0,ryzen,8gb,512gb,"15.6""",
+inspiron 15 5593,Dell,0.0,88725.0,i5,4gb,128gb,,
+acer aspire 5,Acer,0.0,82000.0,ryzen,8gb,256gb,"15.6""",
+lenovo flex 5,Lenovo,3.0,62000.0,i3,4gb,128gb,14',11th
+acer swift 3,Acer,0.0,88000.0,intel,2gb,512gb,,11th
+dell inspiron 15,Dell,0.0,87900.0,i5,8gb,1tb,,
+asus rog strix,ASUS,0.0,197000.0,ryzen,6gb,512gb,"15.6""",
+acer nitro 5,Acer,0.0,131500.0,ryzen,8gb,512gb,15.6,
+acer aspire vero,Acer,0.0,95000.0,i5,6gb,512gb,"15.6""",11th
+lenovo legion 5,Lenovo,0.0,215000.0,amd,6gb,512gb,,
+acer aspire 5,Acer,0.0,67000.0,i3,4gb,256gb,"15.6""",12th
+acer aspire vero,Acer,0.0,107000.0,i7,6gb,512gb,"15.6""",11th
+dell vostro 3510,Dell,0.0,114000.0,i7,8gb,512gb,"15.6""",11th
+dell laptop vostro,Dell,0.0,70000.0,i3,8gb,256 gb,"15 """,11 gen
+hp15ef2126wm amd ryzen,HP,0.0,78000.0,amd,8gb,256gb,,
+dell latitude 3410,Dell,0.0,62000.0,i3,4gb,1tb,"14""",10th
+dell inspiron 3511,Dell,0.0,59000.0,i3,4gb,256gb,"15.6""",11gen
+asus vivobook 14,ASUS,0.0,63000.0,i3,4gb,256gb,"14""",10th
+"dell inspiron 14ryzen7_5700series14""",Dell,0.0,133900.0,ryzen,,,"14""",
+asus tuf dash,ASUS,0.0,196000.0,i7,6gb,1tb,"15.6""",11th
+acer aspire 5,Acer,0.0,77000.0,i5,4gb,1tb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+hp pavilion 15,HP,0.0,120000.0,i5,8gb,512gb,15.6,10th
+creator z16 a11uet,No Brand,0.0,271000.0,other,6gb,,,
+lenovo ideapad 3,Lenovo,0.0,78000.0,i5,4gb,1tb,,510th
+acer predator helios,Acer,0.0,189999.0,other,,,"15.6""",
+asus rog strix,ASUS,0.0,361000.0,ryzen,2gb,1tb,"15.6""",
+"asus laptop,14 ''",ASUS,0.0,49000.0,other,4gb,256gb,14 ',
+asus vivobook 14,ASUS,0.0,108000.0,ryzen,8gb,512gb,"14""",
+dell g5 2021,Dell,0.0,118000.0,i5,8gb,256gb,15.6,10th
+asus zenbook 14,ASUS,0.0,142000.0,ryzen,6gb,512gb,14',
+lenovo flex 14,Lenovo,0.0,99000.0,i5,6gb,512gb,"14""",
+ryzen 33250uhp14/ 8gb,HP,0.0,65000.0,ryzen,8gb,256gb,,
+asus x415 intel,ASUS,0.0,90000.0,intel,8gb,256gb,"14""",511th
+acer nitro 5,Acer,0.0,120000.0,amd,8gb,256gb,"15.6""",
+asus rog strix,ASUS,0.0,208000.0,ryzen,,,,
+lenovo flex 5,Lenovo,0.0,60000.0,ryzen,4gb,128gb,"14""",
+microsoft surface 3,Microsoft,0.0,230500.0,i7,6gb,256gb,"13.5""",7gen
+prepredator acer predator,Acer,0.0,194000.0,intel,6gb,512 ssd,15.6,
+asus vivobook x515ja,ASUS,0.0,115000.0,i7,8gb,512gb,"14""",10th
+dell latitude 5000,Dell,0.0,165000.0,intel,6gb,512gb,"14""",12th
+dell inspiron 5415,Dell,0.0,95000.0,ryzen,8gb,256gb,"14""",
+asus vivobook x515ea,ASUS,0.0,67000.0,i3,4gb,256 gb,15.6,11th
+asus rog strix,ASUS,0.0,353888.0,ryzen,,,,
+laptop acer nitro5,Acer,0.0,125000.0,amd,8gb,1tb,,
+dell inspiron 15,Dell,0.0,94900.0,i5,,,,
+asus vivobook 14i311_gen14,ASUS,0.0,77500.0,i3,,,"14 """,
+acer spin sp31351n,Acer,0.0,143000.0,intel,8gb,,,11th
+acer travelmate 21553,Acer,0.0,94900.0,i5,8 gb,,,11th
+asus zenbook 14,ASUS,0.0,153000.0,i5,8gb,512gb,"14""",11th
+asus zenbook flip,ASUS,0.0,146000.0,i5,6gb,512gb,"13.3""",11th
+acer aspire fun,Acer,0.0,98000.0,i5,6gb,512gb,"14""",11th
+acer aspire 5,Acer,0.0,97000.0,ryzen,8gb,256gb,"15.6""",
+asus rog zephyrus,ASUS,0.0,494000.0,amd,2gb,1tb,"15.6""",
+acer aspire 5,Acer,0.0,112000.0,i7,8gb,512gb,"14""",11th
+"apple macbook pro13""",Apple,0.0,190000.0,m2,6gb,256gb,"13""",
+asus rog strix,ASUS,0.0,410000.0,ryzen,6gb,1tb,"15.6""",
+dell vostro3515 ryzen,Dell,0.0,51500.0,ryzen,4gb,128gb,"15.6""",
+acer aspire 5,Acer,0.0,82000.0,ryzen,8gb,256gb,"15.6""",
+/intel core i311th,ASUS,0.0,66000.0,intel,4gb,256gb,"15.6""",311th
+acer spin 3,Acer,0.0,100000.0,i5,8gb,256gb,,10th
+dell inspiron 3511,Dell,0.0,84550.0,i5,8gb,512gb,"15.6""",11th
+dell vostro 3401,Dell,0.0,62000.0,i3,8gb,256gb,"14""",11th
+dell inspirion 3501,Dell,4.0,94000.0,i5,,,,11th
+asus vivobook s15,ASUS,0.0,141000.0,i7,6gb,512gb,"15.6""",11th
+"dell laptop,14 ''",Dell,0.0,59000.0,other,4gb,256 gb,14 ',
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11th
+asus vivobook 15,ASUS,0.0,128100.0,i7,8gb,512gb,"15.6""",10th
+asus tuf gaming,ASUS,0.0,172000.0,i7,6gb,512gb,"15.6""",711th
+dell inspirion 3505,Dell,0.0,89000.0,ryzen,8gb,256gb,"15.6""",
+acer aspire 5,Acer,0.0,71000.0,i5,4gb,1tb,"15.6""",11th
+dell inspiron 5410,Dell,0.0,163000.0,i7,2gb,512gb,"14""",11th
+hp pavilion x360,HP,0.0,97999.0,i5,8gb,256gb,"14 """,
+dell inspiron 15,Dell,0.0,100900.0,intel,8gb,,,11th
+acer nitro5 intel,Acer,0.0,169900.0,intel,8gb,,,11th
+dell alienware m15,Dell,0.0,240000.0,m1,6gb,512gb,"15.6""",11gen
+lenovo ideapad flex,Lenovo,0.0,105700.0,i5,6gb,512gb,2.4,10 gen
+acer aspire 5,Acer,0.0,90000.0,i5,8gb,256gb,"14""",11th
+dell xps 13,Dell,0.0,200000.0,i7,6gb,512gb,13.3',10 gen
+hp 240 g7,HP,0.0,69400.0,i3,,,,10th
+asus rog zephyrus,ASUS,0.0,339000.0,m1,2gb,1tb,"16""",11th
+laptop acer i7,Acer,0.0,210000.0,i7,6gb,,,12th
+acer swift 3,Acer,0.0,95000.0,i5,8gb,512gb,"14""",11th
+dell laptop vostro,Dell,0.0,66000.0,i3,4gb,1tb,"15 """,11 gen
+asus rog strix,ASUS,0.0,144000.0,i7,8gb,512gb,"15.6""",
+"dell laptop,14 ''",Dell,0.0,54000.0,other,4gb,1 tb,14 ',
+asus laptop 15,ASUS,0.0,69500.0,other,,,,
+dell inspiron 3505,Dell,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+dell vostro 3400,Dell,0.0,91000.0,i5,8gb,256gb,"14""",11th
+lenovo thinkpad l14,Lenovo,0.0,170999.0,i5,6gb,512gb,"14""",12th
+dell inspiron 3511,Dell,0.0,84900.0,intel,8gb,512gb,"15.6""",11th
+asus tuf gaming,ASUS,0.0,120000.0,intel,8gb,512gb,,510th
+hp 15sdu2101tu 15.6,HP,0.0,83000.0,intel,8gb,1tb,15.6,10th
+dell inspiron 15,Dell,0.0,78990.0,i5,8gb,512gb,,11th
+dell vostro 3510,Dell,0.0,61990.0,i3,8gb,256gb,"15.6""",11th
+dell inspiron 3511,Dell,0.0,61200.0,i3,8gb,256gb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,138800.0,ryzen,6gb,512gb,"14""",
+lenovo ideapad flex,Lenovo,0.0,61500.0,i3,4 gb,128 gb,"14""",11th
+asus rog strix,ASUS,0.0,181000.0,ryzen,,,,
+asus zenbook flip,ASUS,0.0,175000.0,i7,6gb,512gb,"13.3""",11th
+"asus laptop,14 ''",ASUS,0.0,82500.0,i5,4gb,256gb,14 ',
+msi creator z16,MSI,0.0,292000.0,other,,,,
+dell inspiron 3501,Dell,0.0,115000.0,other,,,,
+asus rog strix,ASUS,0.0,288000.0,ryzen,6gb,1tb,"15.6""",
+acer predator triton,Acer,0.0,198990.0,i7,6gb,512gb,,10th
+acer aspire 5,Acer,0.0,95000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 3501,Dell,0.0,78000.0,i5,8gb,256gb,15.6,11th
+"dell laptop,15 ''",Dell,0.0,83700.0,other,8 gb,512 gb,15 ',
+asus tuf dash,ASUS,0.0,205000.0,i7,6gb,512gb,"15.6""",11th
+hp victus 16,HP,0.0,185000.0,i7,6gb,512gb,"16.1""",
+dell laptop vostro,Dell,0.0,63000.0,i3,4gb,1tb,"15 """,11 gen
+asus vivobook flip,ASUS,0.0,116000.0,ryzen,8gb,512gb,"14""",
+asus rog strix,ASUS,0.0,300000.0,i9,6 gb,512 gb,,
+acer swift 3x,Acer,0.0,148000.0,i7,4gb,1tb,"14""",11th
+acer aspire 5,Acer,0.0,118000.0,i7,6gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,95000.0,i5,8gb,512gb,"15.6""",11th
+asus zenbook pro,ASUS,0.0,488000.0,i9,2gb,1tb,"15.6""",10th
+msi katana gf66,MSI,0.0,167040.0,i5,,,,
+"dell inspiron 14i511gen14""",Dell,0.0,157900.0,i5,,,"14""",511gen
+dell laptop vostro,Dell,0.0,88000.0,i5,8gb,256 gb,"15 """,11 gen
+dell inspirion 3501,Dell,0.0,96600.0,i5,8gb,512gb,"15.6""",11th
+asus rog strix,ASUS,0.0,194000.0,ryzen,6gb,512gb,"15.6""",
+dell vostro 3400,Dell,0.0,72000.0,i5,8gb,256gb,,11th
+hp pavilion 14dv0010,HP,0.0,93000.0,i5,8gb,256gb,"14""",11th
+asus tuf gaming,ASUS,0.0,184000.0,i7,,,,711th
+lenovo legion 5,Lenovo,0.0,210000.0,ryzen,6gb,512gb,,
+asus tuf f15,ASUS,0.0,121000.0,i5,8gb,512gb,"15.6""",10th
+lenovo ideapad l34015api,Lenovo,0.0,62000.0,amd,4gb,1tb,15.6,
+lenovo legion 5,Lenovo,0.0,120000.0,ryzen,8gb,256gb,15.6',
+dell inspiron 15,Dell,0.0,80900.0,ryzen,,,,
+dell inspiron 15,Dell,0.0,72900.0,intel,4gb,1tb,,11th
+asus vivobook s13,ASUS,0.0,105000.0,i5,8gb,512gb,13.3,11th
+dell inspiron 3511,Dell,0.0,88000.0,other,,,,
+acer nitro 5,Acer,0.0,150000.0,i7,8gb,512gb,"15.6""",10th
+asus vivobook e410ma,ASUS,0.0,49000.0,other,4gb,256gb,"14""",
+dell inspiron 3511,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 3511,Dell,0.0,90000.0,intel,8gb,512gb,"15.6""",11th
+msi gp66 leopard11ue,MSI,0.0,262500.0,other,,,,
+acer swift 3,Acer,0.0,86000.0,ryzen,8gb,256gb,"14""",
+acer laptop spin,Acer,0.0,169500.0,i7,,,,
+dell inspirion 3501,Dell,0.0,89990.0,i5,4gb,1tb,"15.6""",11th
+acer spin 3,Acer,0.0,118000.0,i5,8gb,512gb,"14""",11th
+acer swift 3,Acer,0.0,94000.0,ryzen,8gb,512gb,"14""",
+dell vostro 3510,Dell,0.0,82000.0,i5,8gb,256gb,"15.6""",11th
+acer aspire 5,Acer,0.0,90000.0,i5,8gb,256gb,"14""",11th
+acer aspire 5,Acer,0.0,107000.0,i7,8gb,1tb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,256gb,"15.6""",12th
+asus rog strix,ASUS,0.0,295000.0,i9,6 gb,512 gb,15.6,
+summit e16 flip,No Brand,0.0,260000.0,other,4gb,,,
+dell inspiron 3511,Dell,0.0,119500.0,i7,8gb,512gb,15.6,11th
+dell inspiron 14,Dell,0.0,72500.0,intel,8gb,256 gb,"14""",10th
+"dell laptop,14 ''",Dell,0.0,97000.0,other,8gb,512 gb,14 ',
+dell latitude 3420,Dell,0.0,81000.0,i5,4gb,1tb,"14""",11th
+acer nitro 5,Acer,0.0,165000.0,intel,8gb,512 ssd,"15.6""",10th
+dell inspiron 3501,Dell,0.0,60800.0,i3,4 gb,256 ssd,"15.6""",11th
+acer swift342r8r5 amd,Acer,0.0,88000.0,amd,8gb,512gb,"14""",
+asus rog zephyrus,ASUS,0.0,390000.0,m1,2gb,1tb,"16""",12th
+acer aspire 5,Acer,0.0,107000.0,i7,8gb,1tb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,201443.0,ryzen,,,,
+dell inspiron 15,Dell,0.0,64500.0,i3,4gb,256ssd,,
+acer swift 2021,Acer,0.0,125000.0,i7,8gb,512gb,"13.3""",11th
+hp 255 g8,HP,0.0,90000.0,ryzen,8 gb,512 ssd,15.6,
+acer nitro 5,Acer,0.0,110500.0,i5,8gb,256gb,,10th
+laptop acer aspire,Acer,0.0,75000.0,i5,4gb,1tb,,10th
+msi modern 15,MSI,0.0,118000.0,other,,,,
+lenovo thinkpad l13/,Lenovo,0.0,121999.0,i5,8gb,,"13.3""",11th
+dell inspiron 15,Dell,0.0,107900.0,i5,8gb,512ssd,,
+dell vostro 3401,Dell,0.0,60000.0,i3,4gb,1tb,"14""",10th
+hp notebook 14ce3056tx,HP,0.0,89000.0,i5,4gb,1tb,"14""",10th
+microsoft surface laptop,Microsoft,0.0,258800.0,intel,6gb,512gb,13.5,
+asus vivobook 15,ASUS,0.0,126000.0,i7,8gb,512gb,"15.6""",12th
+dell inspiron 3511,Dell,0.0,86000.0,i5,8gb,512gb,,11th
+acer nitro 5,Acer,0.0,165000.0,intel,8gb,512 ssd,"15.6""",10th
+acer aspire 3,Acer,0.0,90000.0,i5,8gb,256gb,"15.6""",11th
+acer aspire vero,Acer,0.0,107000.0,i7,6gb,512gb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,261333.0,ryzen,,,,
+lenovo legion y540,Lenovo,0.0,140000.0,i7,8gb,512gb,15.6',
+hp 14dk1022 amd,HP,5.0,55000.0,amd,8gb,128gb,"14""",
+acer nitro 5,Acer,0.0,116000.0,intel,8gb,256gb,"15.6""",11th
+acer travelmate i5,Acer,0.0,80000.0,i5,8gb,256gb,"14""",10th
+asus tuf f15,ASUS,0.0,162000.0,i7,6gb,512gb,"15.6""",11th
+asus vivobook 14,ASUS,0.0,95000.0,i5,8gb,256gb,"14""",11th
+dell vostro 3510,Dell,0.0,78999.0,i5,8gb,256gb,"15.6""",11th
+acer swift 3,Acer,0.0,108000.0,ryzen,8gb,512gb,"14""",
+asus zenbook 14,ASUS,0.0,154000.0,i7,6gb,512gb,14',711th
+acer aspire 5,Acer,0.0,60000.0,i3,4gb,128gb,"15.6""",
+acer aspire 5,Acer,0.0,87000.0,i5,8gb,512gb,"15.6""",11th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,512gb,"15.6""",11th
+asus vivobook 14,ASUS,0.0,63000.0,i3,4gb,256gb,"14""",10th
+acer aspire 5,Acer,0.0,95000.0,i5,8gb,512gb,"15.6""",11th
+acer swift 3,Acer,0.0,94000.0,ryzen,8gb,512gb,"14""",
+hp ryzen 3,HP,0.0,55000.0,ryzen,8gb,128gb,,
+gp66 leopard 11uh,No Brand,0.0,343000.0,other,8gb,,,
+dell inspiron 15,Dell,0.0,63900.0,other,,,,
+msi ge66 raider,MSI,0.0,370000.0,i7,,,,
+hp laptop 240,HP,0.0,68000.0,intel,4gb,500gb,"14 """,10th
+asus vivobook e410ma,ASUS,0.0,49000.0,other,4gb,256gb,"14""",
+acer swift 3,Acer,0.0,79000.0,ryzen,8gb,256gb,"14""",
+acer swift 3x,Acer,0.0,148000.0,i7,4gb,1tb,"14""",11th
+dell inspiron 5400,Dell,0.0,121000.0,i7,8gb,512gb,"14""",10th
+dell inspiron 5391,Dell,0.0,115000.0,i5,8gb,512gb,13.3',10th
+dell latitude 3420,Dell,0.0,120000.0,i7,8gb,1tb,,11th
+acer nitro 5,Acer,0.0,135000.0,ryzen,6gb,512gb,15.6,
+"lenovo laptop,yoga,8 gb,256",Lenovo,0.0,99900.0,other,8 gb,256 gb,,
+dell inspirion 3501,Dell,0.0,85990.0,i5,4gb,1tb,"15.6""",11th
+asus vivobook 15,ASUS,0.0,105000.0,i5,8gb,512gb,"15.6""",11th
+asus vivobook 14,ASUS,0.0,71111.0,i3,4gb,256gb,"14""",12th
+dell inspiron 14,Dell,0.0,108000.0,ryzen,8gb,512gb,"14""",
+acer predator helios,Acer,0.0,215000.0,i7,6gb,1tb,"15.6""",11th
+lenovo legion 5,Lenovo,0.0,245000.0,ryzen,6gb,512gb,16',
+dell inspiron 3511,Dell,0.0,119000.0,other,8gb,512 gb,15.6',
+dell vostro 3500,Dell,0.0,92000.0,intel,8gb,256gb,,11 gen
+dell inspirion 3501,Dell,0.0,79800.0,i5,8gb,256gb,"15.6""",11gen
+asus tuf f15,ASUS,0.0,183000.0,i7,6gb,512gb,"15.6""",11th
+acer swift 3,Acer,0.0,108000.0,ryzen,8gb,512gb,"14""",
+acer nitro 5,Acer,0.0,150000.0,i7,8gb,512gb,"15.6""",10th
+hp envy 13,HP,0.0,128000.0,i7,8gb,512 gb,13.3,12th
+dell inspiron 5493,Dell,0.0,97000.0,i5,2gb,512gb,14',10th
+acer nitro 5,Acer,1.0,144000.0,ryzen,6gb,256gb,"15.6""",
+asus rog zephyrus,ASUS,0.0,293000.0,ryzen,6gb,1tb,14',
+hp pavilion power,HP,0.0,141750.0,i5,8gb,512gb,"15.6""",
+asus rog strix,ASUS,0.0,410000.0,ryzen,6gb,1tb,"15.6""",
+acer nitro 5,Acer,0.0,126000.0,i7,8gb,512ssd,"15.6""",11th
+acer nitro 5,Acer,0.0,140000.0,i5,6gb,256gb,"15.6""",10th
+acer nitro 5,Acer,0.0,130000.0,i7,8gb,512gb,15.6,10th
+hp 14s laptop/,HP,0.0,97000.0,intel,8gb,512 gb,"14 """,
+dell vostro 3510,Dell,0.0,77000.0,i5,4gb,1tb,15.6,11th
+acer laptop a51454g,Acer,0.0,96500.0,i5,,,,11th
+asus rog strix,ASUS,0.0,361000.0,ryzen,2gb,1tb,"15.6""",
+acer aspire 5,Acer,0.0,97000.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 3511,Dell,0.0,92000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 5415,Dell,0.0,95000.0,ryzen,8gb,256gb,"14""",
+asus zenbook q408ug/,ASUS,0.0,99990.0,ryzen,8gb,256gb,,
+microsoft surface 3,Microsoft,0.0,192500.0,i5,8gb,256gb,"13.5""",5gen
+asus vivobook k403fa,ASUS,0.0,131000.0,i7,6gb,512gb,"14""",10th
+hp envy 2in1,HP,0.0,124500.0,intel,8gb,512gb,"13.3""",12th
+lenovo ideapad gaming,Lenovo,0.0,128000.0,intel,6gb,512gb,"15.6""",11th
+acer aspire 3,Acer,0.0,74000.0,i5,4gb,1tb,"15.6""",10th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,512gb,"15.6""",11th
+acer swift 2021,Acer,0.0,125000.0,i7,8gb,512gb,"13.3""",11th
+dell inspiron 3511,Dell,0.0,119000.0,i7,8gb,512gb,"15.6""",11th
+acer nitro 5,Acer,0.0,165000.0,amd,6gb,512 ssd,"15.6""",
+dell inspiron 5501/,Dell,0.0,94000.0,i5,2gb,256ssd,"15.6""",10th
+hp laptop 240,HP,0.0,75500.0,intel,8gb,256gb,"14 """,10th
+dell latitude 3410,Dell,0.0,88000.0,i5,8gb,1tb,"14""",10th
+"dell laptop,14 ''",Dell,0.0,78000.0,other,4gb,1 tb,14 ',
+hp notebook 14dq1059,HP,0.0,79000.0,i5,8gb,256gb,"14""",10th
+acer aspire3 i3,Acer,0.0,61000.0,i3,4gb,1tb,,11th
+lenovo ideapad 3,Lenovo,0.0,82000.0,amd,8gb,256gb,"15.6""",
+hp envy 13,HP,0.0,100000.0,intel,8gb,256gb,"13""",10th
+"dell laptop,14 ''",Dell,0.0,80000.0,other,8gb,256 gb,14 ',
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+dell inspiron 3501,Dell,0.0,98700.0,i5,8gb,256gb,,511th
+asus tuf dash,ASUS,0.0,278000.0,i7,6gb,1tb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,81000.0,ryzen,4gb,256gb,"14""",
+hp 15 ef,HP,0.0,73500.0,ryzen,8gb,256gb,"15.6""",
+acer aspire 5,Acer,0.0,62000.0,i3,4gb,128gb,"15.6""",
+"dell inspiron 14""",Dell,0.0,115000.0,i5,,,"14""",11th
+acer aspire a315,Acer,0.0,77900.0,ryzen,4gb,1 tb,"15.6""",
+acer swift 3,Acer,0.0,95000.0,i5,8gb,512gb,"14""",11th
+dell xps 13,Dell,0.0,200000.0,i7,6gb,512gb,13.3',10 gen
+dell inspiron 7306,Dell,0.0,197400.0,i7,6gb,512gb,13.3',11th
+acer aspire 3,Acer,0.0,90000.0,i5,8gb,256gb,"15.6""",11th
+acer spin 3,Acer,0.0,118000.0,i5,8gb,512gb,"14""",11th
+gp66 leopard 11ug,No Brand,0.0,271000.0,other,8gb,,,
+asus tuf f15,ASUS,0.0,115000.0,i5,8gb,512gb,"15.6""",10th
+acer spin 3,Acer,0.0,101500.0,i5,8gb,256ssd,"14.0""",10th
+dell inspiron 7306,Dell,0.0,188000.0,i7,6gb,512gb,13.3',11th
+acer swift 5,Acer,0.0,145000.0,i7,8gb,512gb,"14""",10th
+"hp 14"" fhd,",HP,0.0,51999.0,amd,4gb,256ssd,"14""",
+dell inspiron 5415,Dell,0.0,115000.0,ryzen,8gb,512gb,"14""",
+hp envy 15,HP,0.0,125000.0,intel,8gb,256gb,15.6,12th
+lenovo thinkpad l14,Lenovo,0.0,128250.0,i5,8 gb,512 gb,"14""",14 gen
+gp66 leopard 11ue,No Brand,0.0,242000.0,other,6gb,,,
+dell inspiron 7405,Dell,0.0,93000.0,other,,,,
+acer spin 3,Acer,0.0,75000.0,intel,8gb,256gb,"14""",10th
+hp laptop 240,HP,0.0,71000.0,intel,8gb,500gb,"14 """,10th
+dell vostro 3510,Dell,0.0,60000.0,i3,4gb,1tb,"15.6""",11th
+lenovo legion 5,Lenovo,0.0,254800.0,amd,6gb,1tb,,
+hp 15 amd,HP,0.0,105000.0,amd,8gb,512gb,,
+asus laptop 14,ASUS,0.0,67000.0,i3,6 gb,256 gb,"14""",11th
+"dell vostro 15.6""",Dell,0.0,59999.0,i3,,,"15.6""",10th
+"acer lapto,13 ''",Acer,0.0,91000.0,i5,8 gb,512 gb,13 ',
+acer nitro 5,Acer,0.0,139000.0,i5,8gb,512gb,"15.6""",11th
+acer swift 3,Acer,0.0,141750.0,i5,,,,11th
+dell g5 15,Dell,0.0,173000.0,i7,6gb,512gb,"15.6""",10th
+acer nitro 5,Acer,0.0,175000.0,i7,6gb,1tb,"15.6""",11th
+asus rog flow,ASUS,0.0,238888.0,amd,6gb,1tb,"13.4""",
+dell vostro 5510,Dell,0.0,107000.0,intel,6gb,512gb,"15.6""",
+"dell inspiron 15i311gen15.6""",Dell,0.0,73900.0,i3,,,"15.6""",311gen
+acer nitro 5,Acer,0.0,123000.0,i7,8gb,512ssd,,11th
+acer aspire 5,Acer,0.0,82000.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 5400,Dell,0.0,121000.0,i7,8gb,512gb,"14""",10th
+acer predator triton,No Brand,0.0,188475.0,i7,6gb,512gb,"14""",11th
+acer aspire 5,Acer,0.0,118000.0,i7,6gb,512gb,"15.6""",11th
+dell g5 2021,Dell,0.0,185000.0,ryzen,6gb,512gb,"15.6""",
+dell inspiron 5515,Dell,0.0,95000.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 7490,Dell,0.0,118000.0,i5,8gb,256gb,14',10th
+dell inspiron 15,Dell,0.0,109900.0,i5,,,,
+dell vostro 3400/i5,Dell,0.0,82000.0,i5,4gb,1tb,"14 """,11th
+asus e410m 10th,ASUS,0.0,39999.0,other,4 gb,128 gb,"14""",10th
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+dell inspiron 7300,Dell,0.0,185000.0,i7,6gb,1tb,13.3',11th
+asus x415e intel,ASUS,0.0,71500.0,intel,4gb,256gb,"14""",11th
+laptop acer aspire5,Acer,0.0,90000.0,i5,8gb,512ssd,,11th
+dell inspiron 15,Dell,0.0,124500.0,intel,8gb,,,11th
+asus vivobook x413ja,ASUS,0.0,60000.0,i3,4gb,128gb,,10th
+dell vostro 3400/i5,Dell,0.0,82500.0,i5,4gb,1tb,"14 """,11th
+asus tuf a15,ASUS,0.0,221000.0,ryzen,6gb,1tb,"15.6""",
+asus tuf f15,ASUS,0.0,162000.0,i5,6gb,512gb,"15.6""",11th
+asus vivobook x515ja,ASUS,0.0,115000.0,i7,8gb,512gb,"14""",10th
+asus vivobook 15,ASUS,0.0,56000.0,intel,4 gb,256 ssd,15.6,11th
+acer nitro 5,Acer,0.0,165000.0,i7,2gb,512gb,"15.6""",10th
+hp envy 13,HP,0.0,110000.0,i5,8gb,256 gb,13.3,10th
+hp14fq0013dx ryzen 33250u/4gb,HP,0.0,56000.0,ryzen,4gb,256gb,,
+acer aspire 3,Acer,0.0,74000.0,i5,4gb,1tb,"15.6""",10th
+dell inspiron 7490,Dell,0.0,118000.0,i5,8gb,256gb,14',10th
+asus rog strix,ASUS,0.0,194000.0,ryzen,6gb,512gb,"15.6""",
+dell vostro 7500,Dell,0.0,175000.0,i7,6gb,1tb,"15.6""",10th
+dell inspiron 3505,Dell,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+asus zenbook flip,ASUS,0.0,176000.0,i7,6gb,512gb,"13.3""",11th
+dell 14 inspiron,Dell,0.0,110000.0,i5,8 gb,512 gb,13.3,
+"asus vivobook 1414""fhddual_coreintel_celeron",ASUS,0.0,56500.0,intel,,,"1414""",
+dell latitude 3420,Dell,0.0,120000.0,i5,8gb,256 ssd,,11th
+lenovo thinkpad l14,Lenovo,0.0,145000.0,i5,8gb,,"14""",14 gen
+lenovo3 15iml05 core,Lenovo,0.0,78000.0,i5,2gb,512 gb,"15.6""",10th
+asus vivobook e510,ASUS,0.0,49400.0,other,4gb,256gb,"15.6""",10th
+dell inspirion 3501,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+acer swift 3,Acer,0.0,100000.0,ryzen,6gb,512gb,"14""",
+asus zenbook 14,ASUS,0.0,133000.0,i5,,,,
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11th
+acer nitro 5,Acer,0.0,150000.0,intel,8gb,512 ssd,"15.6""",10th
+dell inspiron 15,Dell,0.0,98900.0,intel,8gb,1tb,,11th
+acer nitro 5,Acer,0.0,117000.0,i5,8gb,512gb,,10th
+"creator z16a11uet, 11th",MSI,0.0,292500.0,intel,,,2.5,11th
+laptop dell inspiron,Dell,0.0,83000.0,other,,,,
+acer aspire 3,Acer,0.0,70000.0,ryzen,8gb,256gb,"14""",
+asus vivobook 14,ASUS,0.0,108000.0,ryzen,8gb,512gb,"14""",
+lenovo ideapad 3i,Lenovo,0.0,54000.0,intel,4gb,128gb,"15.6""",11th
+dell inspiron 15,Dell,0.0,88900.0,i5,,,,
+dell inspirion 3501,Dell,0.0,92000.0,i5,8gb,512gb,15.6,11th
+asus tuf dash,ASUS,0.0,278000.0,i7,6gb,1tb,"15.6""",11th
+lenovo ideapad (slim),Lenovo,0.0,59990.0,intel,4gb,256gb,15.6,
+lenovo celeron 4gb,Lenovo,0.0,39500.0,other,4gb,128 gb,14',
+asus vivo book,ASUS,0.0,102000.0,i7,8gb,256gb,"14""",
+dell latitude 3420,Dell,0.0,95000.0,i5,8gb,1tb,,11th
+acer travelmate 21453,Acer,0.0,97500.0,i5,8gb,,,11th
+"acer laptop,15 ''",Acer,0.0,90500.0,other,8 gb,256 gb,15 ',12 gen
+asus zenbook 14,ASUS,0.0,154000.0,i7,6gb,512gb,"13.3""",11th
+dell inspiron 3505,Dell,0.0,98000.0,ryzen,8gb,512gb,"15.6""",
+dell inspiron 5310,Dell,0.0,117000.0,i5,8gb,512gb,"13.3""",11th
+asus vivobook 15,ASUS,0.0,102000.0,i5,2 gb,512 gb,"15.6""",11th
+asus vivobook 14,ASUS,0.0,68800.0,i3,4gb,256ssd,,
+asus tuf f15,ASUS,0.0,120000.0,i5,8 gb,512 gb,15.6,10th
+laptop acer aspire5,Acer,0.0,86800.0,i5,8gb,2tb,,11th
+microsoft surface go,Microsoft,0.0,136000.0,i5,8gb,256gb,"12.4""",
+hp 15s laptop|,HP,0.0,118000.0,intel,8gb,512 ssd,,
+asus rog zephyrus,ASUS,0.0,265000.0,ryzen,6gb,1tb,"15.6""",
+asus rog strix,ASUS,0.0,288000.0,ryzen,6gb,1tb,"15.6""",
+dell g5 15,Dell,0.0,173000.0,i7,6gb,512gb,"15.6""",10th
+acer nitro 5,Acer,0.0,139000.0,i5,8gb,512gb,"15.6""",11th
+dell vostro 3510,Dell,0.0,110000.0,i7,8gb,512gb,"15.6""",11th
+asus tp412fatouch intel,ASUS,0.0,82000.0,intel,,,"14""",10th
+"hp 14, amd",HP,0.0,60000.0,amd,8gb,256gb,"14""",
+dell inspiron 7391,Dell,0.0,148000.0,i7,8gb,512gb,13.3',10th
+acer nitro 5,Acer,0.0,128000.0,i5,8gb,512gb,"15.6""",11th
+asus tuf dash,ASUS,0.0,196000.0,i7,6gb,1tb,"15.6""",11th
+asus vivobook flip,ASUS,0.0,94800.0,ryzen,8gb,256gb,"14""",
+dell inspiron 15,Dell,0.0,73500.0,intel,4gb,128gb,,11th
+"asus m513u vivobook,15.6",ASUS,0.0,99000.0,amd,8gb,512gb,15.6,
+dell latitude 3420,Dell,0.0,89000.0,i5,4gb,1tb,"14""",11th
+dell alienware m15,Dell,0.0,270000.0,m1,6gb,512gb,"15.6""",10th
+dell inspiron 7391,Dell,0.0,147000.0,i7,8gb,512gb,13.3',10th
+dell inspiron 14,Dell,0.0,151500.0,intel,8gb,,,11th
+lenovo i5/ 4gb/,Lenovo,0.0,72500.0,i5,4gb,1tb,"15.6""",
+asus zenbook duo,ASUS,0.0,228000.0,i7,6gb,1tb,"14""",11th
+dell inspiron 7391,Dell,0.0,118000.0,i5,8gb,256gb,13.3',10th
+asus zenbook 14,ASUS,0.0,182000.0,i7,6gb,512gb,"14""",11th
+hp 15sdu2101tu i5,HP,0.0,78400.0,i5,,,,10th
+msi gf 65,MSI,0.0,140000.0,other,8gb,512gb,"15.6""",65 th
+dell inspiron 15,Dell,0.0,90900.0,ryzen,6gb,256gb,15.6,
+hp pavilion 14,HP,0.0,115000.0,intel,8gb,512gb,,11th
+msi gf65 i7,MSI,0.0,182000.0,i7,8 gb,512 gb,15.6,9th
+dell vostro 3400,Dell,0.0,91000.0,i5,8gb,256gb,"14""",11th
+dell latitude 7000,Dell,0.0,235000.0,intel,2gb,512gb,"14""",12th
+acer extensa 15,Acer,0.0,80000.0,other,,,,
+asus e410ma intel,ASUS,0.0,49333.0,intel,4gb,256gb,"14""",
+acer nitro 5,Acer,0.0,119000.0,i5,8gb,512gb,,511th
+gp76 leopard 11ue,No Brand,0.0,245000.0,other,6gb,,,
+dell inspiron 13,Dell,0.0,145900.0,intel,8gb,,,11th
+dell 3501 i5,Dell,0.0,81999.0,i5,8gb,256ssd,"15.6""",11th
+acer swift 3,Acer,0.0,100000.0,ryzen,6gb,512gb,"14""",
+acer nitro 5,Acer,0.0,150000.0,i7,8gb,512gb,"15.6""",10th
+asus rog strix,ASUS,0.0,410000.0,ryzen,6gb,1tb,"15.6""",
+dell inspiron 5391,Dell,0.0,115000.0,i5,8gb,512gb,13.3',10th
+dell xps 13,Dell,0.0,155000.0,i7,8gb,256gb,13.3',10 gen
+asus vivobook 15,ASUS,0.0,93000.0,ryzen,8gb,256gb,"15.6""",
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+dell g5 2021,Dell,0.0,195000.0,i7,6gb,512gb,"15.6""",11th
+dell xps 15,Dell,0.0,265000.0,i7,6gb,1tb,"15.6""",10th
+dell inspiron 15,Dell,0.0,89900.0,i5,,,,
+msi ge66 raider,MSI,0.0,330000.0,i7,,,,
+acer nitro5 intel,Acer,0.0,157900.0,intel,6gb,,,11th
+dell g3 g3500,Dell,0.0,115000.0,i5,8gb,512gb,15.6,10th
+acer aspire 5,Acer,0.0,72000.0,i5,8gb,256gb,"14 """,11th
+asus rog strix,ASUS,0.0,255000.0,ryzen,6gb,1tb,"15.6""",
+asus vivobook k403fa,ASUS,0.0,131000.0,i7,6gb,512gb,"14""",10th
+dell g5 15,Dell,0.0,210000.0,i7,6gb,1tb,"15.6""",10th
+dell inspiron 5515,Dell,0.0,95000.0,ryzen,8gb,256gb,"15.6""",
+asus zenbook 14,ASUS,0.0,153000.0,i5,8gb,512gb,"14""",11th
+dell vostro 3401,Dell,0.0,58000.0,i3,4gb,256gb,,10th
+dell latitude 3420,Dell,0.0,145000.0,i7,8gb,256 ssd,,11th
+lenovo thinkbook 15,Lenovo,0.0,88000.0,i5,8gb,1tb,,11th
+asus l510 /intel,ASUS,0.0,55000.0,intel,4gb,128 gb,15.6,
+dell vostro 3510,Dell,0.0,77000.0,i5,4gb,1tb,"15.6""",11th
+acer nitro 5,Acer,0.0,145000.0,i7,8gb,512gb,"15.6""",11th
+dell inspiron 14,Dell,0.0,141900.0,i5,,,,
+acer nitro 5,Acer,0.0,138000.0,amd,8gb,1tb,"15.6""",
+asus tuf dash,ASUS,0.0,206325.0,i7,6gb,1tb,"15.6""",711th
+asus rog zephyrus,ASUS,0.0,494000.0,amd,2gb,1tb,"15.6""",
+tuf f15 fx506lh,ASUS,0.0,127000.0,i5,8gb,512gb,"15.6""",10th
+lenovo flex 5,Lenovo,3.0,125000.0,i7,6gb,512 ssd,15.6,11th
+dell 5406 i5,Dell,0.0,106400.0,i5,8gb,,,11th
+acer nitro 5,Acer,0.0,128000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 5415,Dell,0.0,115000.0,ryzen,8gb,512gb,"14""",
+dell inspiron 14,Dell,0.0,135900.0,i7,,,,
+dell inspiron 15,Dell,0.0,92900.0,i5,,,,
+"dell vostro 15i511gen15.6""",Dell,0.0,100900.0,i5,,,"15.6""",511gen
+lenovo ideapad 1,Lenovo,0.0,41999.0,other,8gb,128gb,,
+acer extensa ex21552,Acer,0.0,86900.0,other,,,,
+lenovo ideapad 3,Lenovo,0.0,85000.0,ryzen,8gb,256gb,"15.6""",
+dell g5 2021,Dell,0.0,185000.0,ryzen,6gb,512gb,"15.6""",
+asus vivobook x415ma,ASUS,0.0,49300.0,other,4gb,256gb,"14""",
+dell g5 15,Dell,0.0,185000.0,i7,6gb,512gb,"15.6""",10th
+dell vostro 5502,Dell,0.0,101000.0,i5,8gb,512gb,"15""",11th
+hp 15sdu2101tu 15.6,HP,0.0,78400.0,intel,4gb,1tb,15.6,10th
+asus vivobook 14,ASUS,0.0,95000.0,i5,8gb,256gb,"14""",11th
+asus zenbook flip,ASUS,0.0,175000.0,i7,6gb,512gb,"13.3""",11th
+asus zenbook 14,ASUS,0.0,154000.0,i7,6gb,512gb,"13.3""",11th
+asus rog zephyrus,ASUS,0.0,375000.0,amd,6gb,1tb,"15.6""",
+hp envy 13,HP,0.0,107000.0,i5,8gb,256gb,"13.3""",
+hp 14 dq2055wm,HP,0.0,62000.0,i3,4gb,1tb,,11th
+hp 15dy2089mc core,HP,0.0,118000.0,i7,2gb,256gb,,11gen
+hp probook 440,HP,0.0,128250.0,intel,8 gb,512 gb,,11th
+acer aspire 3,Acer,0.0,90000.0,i5,8gb,256gb,"15.6""",11th
+dell inspiron 15,Dell,0.0,116900.0,i5,,,,
+msi katana gf66,MSI,0.0,193920.0,i7,,,,
+dell vostro 3510,Dell,0.0,115000.0,i7,8gb,512gb,"15.6""",11th
+acer tmp21453 i5,Acer,0.0,97500.0,i5,8gb,,,11th
+dell 5401 vostro,Dell,0.0,96000.0,intel,8gb,512gb,,10th
+acer aspire 5,Acer,0.0,92000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 14,Dell,0.0,108000.0,ryzen,8gb,512gb,"14""",
+dell g3 g3590,Dell,0.0,156000.0,i7,6gb,256gb,"15.6""",9th
+dell vostro 3510,Dell,0.0,76000.0,i5,4gb,1tb,"15.6""",11th
+lenovo legion y540,Lenovo,0.0,110000.0,i5,8gb,256gb,"15.6""",9th
+hp omen 16,HP,0.0,172000.0,ryzen,6gb,512gb,16.1,
+lenovo legion 5,Lenovo,0.0,268800.0,amd,6gb,512gb,15.6,
+hp 15 dy2172,HP,0.0,110000.0,i7,8gb,512gb,"15.6""",
+acer aspire fun,Acer,0.0,84999.0,i5,6gb,512gb,"14""",11th
+lenovo ideapad 330/intel,Lenovo,0.0,55000.0,intel,4gb,1tb,"14 """,
+acer swift 3,Acer,0.0,95000.0,i5,8gb,512gb,"14""",11th
+acer swift 3,Acer,0.0,104000.0,i7,8gb,256gb,"14""",
+asus rog strix,ASUS,0.0,232000.0,ryzen,6gb,1tb,15.6,
+hp 14dk1022 amd,HP,0.0,55000.0,amd,8gb,128gb,"14""",
+asus tuf f15,ASUS,0.0,183000.0,i7,6gb,512gb,"15.6""",11th
+dell inspiron 7300,Dell,0.0,185000.0,i7,6gb,1tb,13.3',11th
+asus zenbook 14,ASUS,0.0,154444.0,i7,6gb,512gb,14',711th
+dell inspiron 15amd,Dell,0.0,71900.0,amd,,,"315.6""",
+acer aspire 5,Acer,0.0,89000.0,i5,8gb,256gb,,11gen
+lenovo thinkpad p14s,Lenovo,5.0,225000.0,intel,6gb,512gb,,11th
+dell inspirion 3501,Dell,0.0,93000.0,i5,8gb,512gb,"15.6""",11th
+dell inspiron 5310,Dell,0.0,117000.0,i5,8gb,512gb,"13.3""",11th
+hp victus 15,HP,0.0,105000.0,other,,,,
+asus tuf f15,ASUS,0.0,235000.0,i7,6gb,1tb,"15.6""",12th
+acer swift 3,Acer,0.0,96500.0,i7,8gb,256gb,"14""",
+gaming laptop lenovo,Lenovo,0.0,199999.0,amd,6gb,512gb,"15.6""",
+dell latitude 3410,Dell,5.0,88000.0,i5,8gb,256 gb,"14""",10th
+asus zenbook 14,ASUS,0.0,182000.0,i7,6gb,512gb,"14""",11th
+asus rog strix,ASUS,0.0,158000.0,ryzen,6gb,512gb,"15.6""",
+dell g5 2021,Dell,0.0,195000.0,i7,6gb,512gb,"15.6""",11th
+acer nitro 5,Acer,0.0,111111.0,amd,8gb,512 gb,,
+dell inspirion 3501,Dell,0.0,114000.0,i7,8gb,512gb,"15.6""",11th
+dell vostro 3510,Dell,0.0,82000.0,i5,8gb,256gb,"15.6""",11th
+laptop acer nitro5,Acer,0.0,157500.0,amd,6gb,512ssd,,
+acer nitro5 intel,Acer,0.0,149900.0,intel,8gb,,,11th
+dell vostro 3400,Dell,0.0,97000.0,i5,8gb,256gb,"14""",11th
+acer predator helios,Acer,0.0,190000.0,i7,6gb,1tb,"15.6""",11th
+acer aspire 5,Acer,0.0,75000.0,i3,8gb,256gb,,11th
+dell inspiron 15,Dell,0.0,107900.0,intel,8gb,,,11th
+hp notebook 15ef2126wm,HP,0.0,72999.0,ryzen,8gb,256gb,"15 """,11 gen
+dell g5 15,Dell,0.0,210000.0,i7,6gb,1tb,15.6,10th
+acer aspire a31558g,Acer,0.0,98900.0,i5,8gb,,,11th
+hp laptop 240,HP,0.0,67000.0,intel,4gb,500gb,"14 """,10th
+asus vivobook 15,ASUS,0.0,120000.0,i7,8gb,512gb,,12th
+asus vivobook flip,ASUS,0.0,138800.0,ryzen,6gb,512gb,"14""",
+asus zenbook 13,ASUS,0.0,162000.0,i7,6gb,512gb,"13.3""",11th
+dell inspiron 7405,Dell,0.0,89000.0,ryzen,8gb,256gb,14',
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11 gen
+dell vostro 3510,Dell,0.0,62000.0,i3,4gb,256gb,15.6,11th
+lenovo thinkpad t14,Lenovo,0.0,133000.0,i5,8 gb,256 gb,"14""",14 gen
+acer nitro 5,Acer,0.0,158000.0,ryzen,8gb,512 ssd,,
+asus zenbook core,ASUS,0.0,96000.0,i5,8gb,256gb,"13.3""",
+acer nitro 5,Acer,0.0,120000.0,i5,8gb,512 gb,,11 gen
+asus zenbook q507iq,ASUS,0.0,120000.0,ryzen,8gb,256gb,,
+hp 250 g7,HP,0.0,70500.0,i5,8gb,256gb,15.6,10th
+dell inspiron 7501,Dell,0.0,147000.0,i5,8gb,512gb,"15.6""",10th
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+asus vivobook 15,ASUS,0.0,115000.0,i5,8gb,512gb,"15.6""",11th
+laptop acer aspire5,Acer,0.0,70000.0,i3,4gb,1tb,,11th
+"asus tuf f1511geni7core15.6""",ASUS,0.0,187500.0,i7,,,"15.6""",1511gen
+dell vostro 3510,Dell,0.0,81999.0,i5,8gb,256gb,"15.6""",
+"dell laptop,14 ''",Dell,0.0,105000.0,other,8gb,256 gb,14 ',
+acer swift 5,Acer,0.0,145000.0,i7,8gb,512gb,"14""",10th
+acer predator helios,Acer,0.0,165000.0,i5,8gb,512gb,"15.6""",10th
+dell 5406 i5,Dell,0.0,103000.0,i5,8gb,256gb,"14""",11th
+acer nitro 5,Acer,0.0,130000.0,i5,8gb,512 gb,,10 gen
+hp 15dw3021 /,HP,0.0,88000.0,i5,8gb,256gb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,375000.0,amd,6gb,1tb,"15.6""",
+hp notebook 14dk1025wm,HP,0.0,60000.0,ryzen,8gb,256gb,"14""",
+asus rog strix,ASUS,0.0,194000.0,ryzen,6gb,512gb,"15.6""",
+dell inspiron 5406,Dell,0.0,153000.0,i7,8gb,512gb,"14""",11th
+asus zephyrus g14,ASUS,0.0,247000.0,ryzen,6gb,1tb,"14""",
+asus rog strix,ASUS,0.0,255000.0,ryzen,6gb,1tb,"15.6""",
+dell inspiron 7391,Dell,0.0,117000.0,i5,8gb,256gb,13.3',10th
+apple macbook pro,Apple,0.0,220000.0,m2,8gb,512gb,,
+hp15 ef2127 amd,HP,0.0,80000.0,amd,8gb,256gb,"15.6""",
+dell inspiron 15,Dell,0.0,122500.0,intel,8gb,,,11th
+dell inspiron 5310,Dell,0.0,140000.0,i7,8gb,512gb,"13.3""",11th
+asus tuf a15,ASUS,0.0,221000.0,ryzen,6gb,1tb,"15.6""",
+asus zephyrus g14,ASUS,0.0,178000.0,ryzen,6gb,512gb,"14""",
+hp victus 15,HP,0.0,115000.0,i5,8gb,512gb,"15.6""",
+hp omen 11th,HP,0.0,288000.0,intel,6gb,1tb,15.6,11th
+hp 15ef1013dx ryzen7,HP,0.0,122000.0,ryzen,8gb,512gb,,
+dell vostro 3400,Dell,0.0,115500.0,i7,8gb,512gb,"14""",11th
+dell vostro 7500,Dell,0.0,175000.0,i7,6gb,1tb,"15.6""",10th
+dell inspiron 5410,Dell,0.0,129000.0,i5,8gb,512gb,"14""",11th
+dell xps 15,Dell,0.0,262000.0,i7,6gb,1tb,"15.6""",10th
+2021 asus rog,ASUS,0.0,272000.0,m1,6gb,1tb,"16""",
+acer nitro 5,Acer,0.0,157000.0,amd,6gb,512 ssd,"15.6""",
+"dell inspiron 14i511gen14""",Dell,0.0,147500.0,i5,,,"14""",511gen
+asus laptop 14,ASUS,0.0,76500.0,i5,6 gb,256 gb,"14""",11th
+hp 15s eq2116au,HP,0.0,90000.0,amd,8gb,512gb,,
+dell inspiron 5505,Dell,0.0,88000.0,ryzen,,,,
+acer nitro 5,Acer,0.0,111500.0,ryzen,6gb,512 ssd,"15.6""",
+lenovo legion 5,Lenovo,0.0,236800.0,amd,6gb,1tb,,
+asus zenbook 14,ASUS,0.0,142000.0,ryzen,6gb,512gb,14',
+acer swift 3/intel,Acer,0.0,116000.0,intel,8gb,256 gb,,11th
+acer predator helios,Acer,0.0,185000.0,i5,6gb,512gb,"15.6""",11th
+asus vivo book,ASUS,0.0,96900.0,i5,8gb,512ssd,,11th
+laptop acer swift3,Acer,0.0,90600.0,amd,8gb,512ssd,,
+dell inspiron 15,Dell,0.0,111900.0,i5,,,,
+dell inspiron 15,Dell,0.0,122900.0,ryzen,,,,
+dell inspiron 35115g8tf,Dell,0.0,64000.0,i3,4gb,128gb,,11th
+asus rog strix,ASUS,0.0,197000.0,ryzen,6gb,512gb,"15.6""",
+asus vivobook pro,ASUS,0.0,194000.0,ryzen,6gb,1tb,"15.6""",
+asus zenbook 14,ASUS,0.0,142000.0,ryzen,6gb,512gb,14',
+dell g5 2021,Dell,0.0,135000.0,i5,6gb,512gb,"15.6""",11th
+dell inspiron 5515,Dell,0.0,124950.0,ryzen,8gb,512gb,"15.6""",
+asus tuf f15,ASUS,0.0,162000.0,i5,6gb,512gb,"15.6""",11th
+acer nitro 5,Acer,0.0,157000.0,amd,6gb,512 ssd,"15.6""",
+lenovo ideapad 3,Lenovo,0.0,59850.0,i3,4gb,128gb,"14""",
+dell inspirion 3501,Dell,0.0,82000.0,i5,4gb,1tb,15.6,11th
+hp 14 ryzen,HP,0.0,50000.0,ryzen,4gb,128gb,"14 """,
+hp g7 ryzen,HP,0.0,85000.0,ryzen,8gb,1tb,"14 """,
+dell latitude 3410,Dell,0.0,112000.0,i5,8gb,256 gb,"14""",10th
+dell 7390 i7,Dell,0.0,175000.0,i7,8gb,256 ssd,13.3,
+dell g5 15,Dell,0.0,185000.0,i7,6gb,512gb,"15.6""",10th
+asus rog strix,ASUS,0.0,361000.0,ryzen,2gb,1tb,"15.6""",
+asus vivobook 14,ASUS,0.0,126000.0,i7,8gb,512gb,"14""",12th
+hp 15s laptop,HP,0.0,114000.0,intel,8 gb,512 gb,"15.6""",
+hp14fq0013dx ryzen 33250u/4gb,HP,0.0,54000.0,ryzen,4gb,128gb,,
+dell inspiron 13,Dell,0.0,130900.0,i5,,,,
+dell inspiron 14,Dell,0.0,108900.0,ryzen,6gb,256gb,"14 """,
+laptop lenovo ip3,Lenovo,0.0,45000.0,other,4gb,1tb,,
+asus tuf dash,ASUS,0.0,199500.0,other,,,,
+acer swift 3,Acer,0.0,90000.0,other,,,,
+"dell laptop,14 ''",Dell,0.0,113000.0,other,8gb,512 gb,14 ',
+dell inspiron 3511,Dell,0.0,119000.0,i7,8gb,512gb,"15.6""",11th
+asus rog zephyrus,ASUS,0.0,293000.0,ryzen,6gb,1tb,14',
+asus tuf dash,ASUS,0.0,205000.0,i7,6gb,512gb,"15.6""",11th
+hp envy x360,HP,0.0,139790.0,i7,8gb,512gb,"13.3""",12th
+gp76 leopard 11uh,No Brand,0.0,355000.0,other,8gb,,,
+dell inspiron 7306,Dell,0.0,188000.0,i7,6gb,512gb,13.3,11th
+microsoft surface 3,Microsoft,0.0,297500.0,i7,6gb,512gb,"15""",7gen
+"dell laptop,15 ''",Dell,0.0,118500.0,other,8gb,512 gb,15 ',
+asus vivobook s15,ASUS,0.0,141000.0,i7,6gb,512gb,"15.6""",11th
+gp76 leopard 11ug,No Brand,0.0,284000.0,other,8gb,,,
+dell inspiron 14,Dell,0.0,117900.0,i5,,,,
+dell inspiron 15,Dell,0.0,124900.0,i5,,,,
+dell inspiron 15,Dell,0.0,133900.0,ryzen,2gb,512gb,15.6,
+dell inspirion 3501,Dell,0.0,86000.0,i5,4gb,1tb,15.6,11th
+dell inspiron 3501,Dell,0.0,90000.0,i5,4gb,1tb,,511th
+lenovo ideapad 3,Lenovo,0.0,80000.0,i5,8gb,512gb,"14""",10th
+lenovo yoga 6,Lenovo,0.0,106000.0,ryzen,8gb,256gb,"13.3""",
+dell inspiron 7490,Dell,0.0,125000.0,i5,8gb,512gb,14',10th
+asus zenbook 13,ASUS,0.0,135000.0,i5,8gb,512gb,"13.3""",11 gen
+asus vivobook 14,ASUS,0.0,95000.0,i5,8gb,256gb,"14""",11th
+asus tuf dash,Acer,0.0,245000.0,other,6gb,512gb,,
+asus rog zephyrus,ASUS,0.0,372000.0,amd,6gb,512gb,"15.6""",
+asus tuf f15,ASUS,0.0,157000.0,i7,6gb,512gb,"15.6""",10th
+asus vivobook k403fa,ASUS,0.0,131000.0,i7,6gb,512gb,"14""",10th
+asus tuf f15,ASUS,0.0,125000.0,i5,8gb,512gb,"15.6""",10th
+asus vivobook 15,ASUS,0.0,105000.0,i5,8gb,512gb,"15.6""",11th
+acer swift x,Acer,0.0,172990.0,amd,4gb,512gb,,
+asus vivo book,ASUS,0.0,104000.0,intel,2gb,512gb,"14 """,
+hp 15ef2126wm ryzen55500u/8gb,HP,0.0,80000.0,ryzen,8gb,256gb,15.6,
+acer swift 3,Acer,0.0,79000.0,ryzen,8gb,256gb,"14""",
+asus zenbook flip,ASUS,0.0,175000.0,i7,6gb,512gb,"13.3""",11th
+asus rog zephyrus,ASUS,0.0,339000.0,m1,2gb,1tb,"16""",11th
+asus vivobook pro,ASUS,0.0,194000.0,ryzen,6gb,1tb,"15.6""",
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+hp envy 13,HP,0.0,112000.0,i5,,,,11th
+dell 7501 10th,Dell,0.0,159000.0,i7,8gb,,"15.6""",10th
+asus zenbook pro,ASUS,0.0,488000.0,i9,2gb,1tb,"15.6""",10th
+dell inspiron 5402,Dell,0.0,119000.0,i5,8gb,512gb,"14""",11th
+hp 15 dy2095,HP,0.0,80000.0,i5,8gb,256gb,"15.6""",
+dell inspiron 15,Dell,0.0,117500.0,intel,8gb,,,11th
+asus zenbook q407iq,ASUS,0.0,98000.0,ryzen,8gb,256gb,,
+asus rog zephyrus,ASUS,0.0,372000.0,amd,6gb,512gb,"15.6""",
+dell inspiron 5510,Dell,0.0,125900.0,i5,8gb,512gb,,511th
+asus rog flow,ASUS,0.0,234110.0,ryzen,,,,
+dell latitude 3420,Dell,0.0,116000.0,i7,8gb,1tb,"14""",
+acer aspire 5,Acer,0.0,95000.0,i5,8gb,512gb,"15.6""",11th
+dell xps 13,Dell,0.0,255000.0,i7,6gb,512gb,13.3',11 gen
+acer nitro 5,Acer,0.0,225000.0,i7,6gb,1tb,"15.6""",11th
+asus a416m celeron,ASUS,0.0,40000.0,other,4gb,1tb,,
+asus vivobook s15,ASUS,0.0,141000.0,i7,6gb,512gb,"15.6""",11th
+asus zenbook 13,ASUS,0.0,135500.0,i5,6gb,512gb,"13.3""",11th
+asus rog zephyrus,ASUS,0.0,292800.0,amd,6gb,1tb,15.6,
+asus zenbook q408ug,ASUS,0.0,105000.0,ryzen,8gb,256gb,,
+hp envy 13,HP,0.0,115000.0,intel,8gb,512gb,"13.3""",710th
+dell inspiron 3501,Dell,0.0,61000.0,other,,,,
+asus vivobook flip,ASUS,0.0,120000.0,i5,8gb,512gb,"14""",11th
+asus rog strix,ASUS,0.0,197000.0,ryzen,6gb,512gb,"15.6""",
+dell vostro 3510,Dell,0.0,80000.0,i5,8gb,256gb,15.6,11th
+asus vivobook x515ja,ASUS,0.0,115000.0,other,8gb,512gb,,
+hp notebook 15sdu3507tx,HP,0.0,99000.0,i5,8gb,512gb,"15.6""",
+laptop acer aspire5,Acer,0.0,80000.0,i5,4gb,1tb,,11th
+dell inspiron 14,Dell,0.0,129900.0,intel,8gb,,,11th
+dell xps 15,Dell,0.0,265000.0,i7,6gb,1tb,"15.6""",10th
+dell inspiron 7300,Dell,0.0,184000.0,i7,6gb,1tb,13.3',11th
+acer nitro 5,Acer,0.0,147000.0,amd,8gb,512 ssd,"15.6""",
+asus zephyrus g14,ASUS,0.0,178000.0,ryzen,6gb,512gb,"14""",
+asus tuf f15,ASUS,0.0,157000.0,i7,6gb,512gb,"15.6""",10th
+dell vostro 3510,Dell,0.0,58000.0,i3,4gb,1tb,"15.6""",11th
+hp victus 16,HP,0.0,185000.0,i7,6gb,512gb,"16.1""",
+asus rog zephyrus,ASUS,0.0,266777.0,m1,,,,
+asus rog strix,ASUS,0.0,193821.0,ryzen,,,,
+dell inspirion 3501,Dell,0.0,114000.0,i7,8gb,512gb,"15.6""",11th
+asus vivobook 15,ASUS,0.0,144000.0,i7,6gb,512gb,"15.6""",11th
+"dell 7506 15.6""",Dell,0.0,107999.0,i5,8gb,256 ssd,"15.6""",11th
+dell inspiron 13,Dell,0.0,163900.0,intel,8gb,,,11th
+"dell laptop,14 ''",Dell,0.0,126500.0,other,8gb,512 gb,14 ',
+dell inspiron 5410,Dell,0.0,163000.0,i7,2gb,512gb,"14""",11th
+asus rog zephyrus,ASUS,0.0,265000.0,ryzen,6gb,1tb,"15.6""",
+hp victus 15,HP,0.0,110000.0,intel,2gb,512gb,"15.6""",12th
+dell inspiron 14,Dell,0.0,122900.0,ryzen,,,,
+lenovo thinkpad x13,Lenovo,0.0,190000.0,intel,6gb,128gb,,13 gen
+hp 15ef2126wm amd,HP,0.0,85000.0,amd,8gb,256gb,,
+hp 15eq2108au amd,HP,0.0,70000.0,amd,4gb,256ssd,,
+hp pavilion laptop,HP,0.0,124999.0,intel,8gb,512gb,,11th
+asus zenbook 14,ASUS,0.0,153000.0,i5,8gb,512gb,"14""",11th
+acer aspire 5,Acer,0.0,83000.0,i5,8gb,512 ssd,"14 """,11th
+laptop acer nitro5,Acer,0.0,123500.0,i5,8gb,512ssd,,11th
+dell xps 13,Dell,0.0,215000.0,i7,6gb,512gb,13.3',11 gen
+asus rog zephyrus,ASUS,0.0,390000.0,m1,2gb,1tb,"16""",12th
+acer predator helios,Acer,0.0,199000.0,i7,6gb,1tb,"15.6""",10th
+asus rog zephyrus,ASUS,0.0,237377.0,m1,,,,
+hp – 15sdu354–,HP,0.0,103000.0,intel,8gb,512gb,715.6,11th
+hp 14cf2224nia i5,HP,0.0,79000.0,i5,4gb,1tb,,10th
+hp 15seq laptop,HP,0.0,83000.0,other,,,,
+acer predator triton,Acer,0.0,235000.0,i7,6gb,512gb,"15.6""",10th
+lnovo thinkpad t14,Lenovo,0.0,165000.0,i5,8gb,256gb,"14""",14 gen
+acer travelmate spin,Acer,0.0,44490.0,m1,4gb,128gb,"12""",
+hp laptop 240,HP,0.0,80000.0,intel,8gb,256gb,"14 """,10th
+delllatitude5000543014notebookfullhd1920x1080intelcorei712thgen16gbram512gbssd,Dell,0.0,205000.0,intel,6gb,512gb,,712th
+asus tuf gaming,ASUS,0.0,183000.0,i7,6gb,512gb,"15.6""",711th
+laptop acer aspire5,Acer,0.0,70000.0,i3,4gb,1tb,,11th
+hp envy x360,HP,0.0,113000.0,i5,8gb,256gb,"15.6""",
+hp 14z laptop,HP,0.0,85000.0,ryzen,8gb,256gb,,
+dell latitude 3420,Dell,0.0,118000.0,i5,8gb,512 ssd,,11th
+asus rog zephyrus,ASUS,0.0,216800.0,amd,6gb,1tb,,
+asus rog strix,ASUS,0.0,394666.0,ryzen,,,,
+hp probook 440,HP,0.0,149999.0,i7,8gb,512gb,"14""",11th
+asus zenbook flip,ASUS,0.0,146000.0,i5,6gb,512gb,"13.3""",11th
+hp envy x360,HP,0.0,128500.0,other,,,,
+hp omen gaming,HP,0.0,147999.0,i7,8gb,256gb,"15.6""",
+lenovo l14 gen,Lenovo,0.0,129999.0,intel,2gb,512gb,"14""",14 gen
+acer s405355ve,Acer,0.0,92000.0,other,,,,
+asus zenbook 13,ASUS,0.0,162000.0,i7,6gb,512gb,"13.3""",11th
+lenovo legion 5,Lenovo,0.0,242000.0,ryzen,6gb,512gb,16',
+acer swift sf31353,Dell,0.0,130000.0,intel,8gb,,,11th
+hp 15s fq4021tu,HP,0.0,124999.0,i5,8gb,512gb,,11th
+acer swift 3,Acer,5.0,92000.0,other,,,,
+asus tuf gaming,ASUS,0.0,221000.0,amd,6gb,1 tb,"15.6""",
+laptop acer nitro5,Acer,0.0,155000.0,amd,8gb,1tb,,
+dell inspiron 5402,Dell,0.0,107000.0,other,,,,
+dell 7506 11,Dell,0.0,125000.0,i5,8gb,256gb,"15.6""",11 gen
+dell latitude 3410,Dell,0.0,79000.0,i5,4gb,1 tb,"14""",10th
+asus zenbook duo,ASUS,0.0,228000.0,i7,6gb,1tb,"14""",11th
+laptop acer swift3,Acer,0.0,103000.0,amd,8gb,512ssd,,
+acer nitroacer nitro,Acer,0.0,125000.0,i5,8gb,512 gb,39.62,511th
+acer aspire 5,Acer,0.0,120000.0,i7,8gb,512gb,"14 """,11th
+laptop asus vivobook,ASUS,0.0,85000.0,i5,8gb,256ssd,,11th
+dell vostro 3500/,Dell,0.0,125000.0,i7,8gb,512gb,,11th
+acer swift sf314511,Acer,0.0,163500.0,intel,6gb,,,11th
+dell xps 13,Dell,0.0,155000.0,i7,8gb,256gb,13.3',10 gen
+dell inspiron 15,Dell,0.0,135900.0,i7,,,,
+lenovo yoga 7,Lenovo,0.0,115000.0,i5,8gb,256gb,,
+acer nitro 5,Acer,0.0,220000.0,ryzen,8gb,1tb,,
+laptop acer aspire3,Acer,0.0,62000.0,amd,4gb,1tb,,
+dell inspiron 7391,Dell,0.0,118000.0,i5,8gb,256gb,13.3,10th
+dell inspiron 15,Dell,0.0,111900.0,i5,,,,
+lenovo slim 7,Lenovo,0.0,105250.0,i5,8gb,512gb,"14""",
+asus tuf f15,ASUS,0.0,127000.0,i5,8gb,512gb,"15.6""",10th
+lenovo yoga 6,Lenovo,0.0,118000.0,amd,6gb,512gb,13.3,
+acer nitro 5,Acer,0.0,148000.0,amd,8gb,512 ssd,"15.6""",
+asus rog zephyrus,ASUS,0.0,223222.0,ryzen,,,,
+hp pavilio power,HP,0.0,132000.0,i7,8gb,,15.6,8th
+acer predator triton,Acer,0.0,225000.0,i7,2gb,512gb,,10th
+dell alienware m15,Dell,0.0,270000.0,m1,6gb,512gb,"15.6""",10th
+acer nitro 5,Acer,0.0,111400.0,ryzen,8gb,256gb,"15.6""",
+dell inspiron 5402,Dell,0.0,133000.0,other,,,,
+lenovo thinkpad x13,Lenovo,0.0,209000.0,intel,6gb,512gb,,13 gen
+dell alienware m15,Dell,0.0,360000.0,m1,2gb,1tb,"15.6""",
+acer predator helios,Acer,0.0,170000.0,i5,8gb,512gb,"15.6""",10th
+laptop acer swift3,Acer,0.0,140000.0,i7,6gb,1tb,,11th
+laptop hp pavilion,HP,0.0,115000.0,other,,,,
+acer predator triton,Acer,0.0,220000.0,i7,6gb,512gb,"14""",11th
+lenovo ideapad gaming,Lenovo,0.0,114000.0,intel,8gb,512 gb,15.6,11th
+laptop acer nitro,Acer,0.0,142000.0,i5,8gb,1tb,,
+dell 7501 10th,Dell,0.0,129000.0,i5,8gb,256gb,"15.6""",10th
+lenovo yoga c740,Lenovo,0.0,140000.0,i7,2 gb,512 gb,"15.6""",
+dell inspiron 13,Dell,0.0,146900.0,i7,,,,
+laptop acer predator,Acer,0.0,160000.0,i5,8gb,512ssd,,10th
+laptop acer nitro5,Acer,0.0,142000.0,amd,8gb,1tb,,
+laptop acer an51545r75r,Acer,0.0,165000.0,amd,8gb,512ssd,,
+lenovo ideapad 5,Lenovo,0.0,134999.0,i5,6gb,512gb,,11th
+laptop acer nitro5,Acer,0.0,152000.0,i7,8gb,512ssd,,11th
+laptop acer swift5,Acer,0.0,140000.0,i7,8gb,512ssd,,10th
+dell inspiron 7391,Dell,0.0,148000.0,i7,8gb,512gb,13.3,10th
+laptop acer an5155655js,Acer,0.0,128000.0,i5,8gb,512ssd,,11th
+laptop acer predator,Acer,0.0,202000.0,i7,8gb,1tb,,11th
+laptop acer nitro5,Acer,0.0,155000.0,i7,8gb,512ssd,,10th
+laptop acer nitro5,Acer,0.0,149000.0,i5,8gb,512ssd,,10th
+laptop acer predator,Acer,0.0,200000.0,i7,6gb,1tb,,11th
+laptop acer nitro5,Acer,0.0,139200.0,i7,8gb,512ssd,,11th
+laptop acer nitro5,Acer,0.0,159000.0,i7,8gb,1tb,,10th
+acer predator triton,Acer,0.0,235000.0,i7,6gb,512gb,"15.6""",10th
+dell inspiron 5502,Dell,0.0,95000.0,intel,8gb,256gb,15.6,11th
+lenovo legion 5,Lenovo,0.0,112000.0,ryzen,,,,
+hp victus 15,Dell,0.0,102000.0,i5,8gb,512gb,"15.6""",
+hp envy 13,HP,0.0,140000.0,i7,8gb,512gb,"13.3""",12th
+dell latitude e7270,Della,0.0,37999.0,i5,6 gb,256 gb,12.5,56th
+dell latitude e5470,Della,0.0,36999.0,i5,8 gb,128 gb,"14""",56th
+latitude 5430 i5,Dell,0.0,170000.0,i5,8gb,512gb,,12th
+asus zenbook 17,ASUS,0.0,549999.0,i7,6gb,1tb,"17.3""",
+asus vivobook m1503qa,ASUS,0.0,113999.0,m1,8 gb,512 gb,"15.6""",
+asus tuf gaming,ASUS,0.0,224999.0,i7,6gb,1tb,"15.6""",12th
+asus g513qehn136t ryzen,ASUS,0.0,193999.0,ryzen,6 gb,512 gb,15.6,
+dell latitude 5430,Dell,0.0,175000.0,intel,6gb,512gb,"14""",12th
+hp omen 16tb100,No Brand,0.0,165000.0,intel,,,,
+dell inspiron 7506,Dell,0.0,111000.0,i5,8gb,256gb,15.6',11th
+lenovo flex 5,Lenovo,0.0,100000.0,i5,6gb,512gb,14.0,11th
+asus vivobook pro,ASUS,0.0,195999.0,ryzen,,1 tb,"14""",
+asus vivobook 15,ASUS,0.0,69999.0,i3,4gb,256gb,"15.6""",12th
+asus rog strix,ASUS,0.0,179999.0,ryzen,6 gb,512 gb,"15.6""",
+acer intel core,Acer,0.0,135970.0,intel,8gb,256gb,,
+dell vostro 3400,Dell,0.0,65000.0,i3,4gb,256gb,,11th
+dell latitude 3430,Dell,0.0,184500.0,i7,8gb,512gb,,12th
+acer aspire 5,No Brand,0.0,77867.0,amd,4gb,000 gb,"15.6""",
+hpvictus i5 12gen,HP,0.0,96000.0,i5,8 gb,512 ssd,,12gen
+ideapad slim 3,Lenovo,0.0,75500.0,intel,8gb,512gb,"15.6""",12th
+acer aspire 3,No Brand,0.0,101333.0,i5,8gb,1tb,"15.6""",11th
+asus zen book,ASUS,0.0,135000.0,i5,8gb,512gb,14',511th
+asus vivo book,ASUS,0.0,66500.0,i3,4gb,256ssd,"15.6""",11th
+laptop/hp 14s/ intel,HP,0.0,96000.0,intel,8gb,512 gb,"14 """,
